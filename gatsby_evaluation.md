@@ -28,7 +28,7 @@ Yes, this is a big project. According to OpenHub, there are about 172,000 lines 
 Yes, the repository has tests. I have specifically seen from the Gatsby Github that there are Integration Tests and End to End Tests.
 
 
-Code and Design Documentation
+## Code and Design Documentation
 1. Is there clear documentation in the code itself?
 There is clear documentation in the code itself, however, the documentation is not as detailed as I believe it should be and the project does not contain as much documentation as I would like. There are parts which give a succinct singular sentence of what the code below it may be doing but I believe there should be a heightened amount of this documentation in the files. I believe with further research and building upon your knowledge of the project, it would be easier to read the code.
 1. Is there documentation about the design?
