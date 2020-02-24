@@ -67,7 +67,7 @@ listing the name of the project in the first column and a list of the
 __actual names__ of the people in your team, not their GitHub names, in the third
 column. Leave the middle column empty for now.
 
-1. If more than one peron is in the team, the team should divide the work of
+1. If more than one person is in the team, the team should divide the work of
 answering the questions as they choose, but only the editor should  write the
 answers in the evaluation file.
 Answer all the questions in the template based on the information on the project
@@ -79,7 +79,8 @@ as you go along.
 
 1. When the evaluation is complete, stage it one last time and commit it.
 
-1. Now you should synchronize with the upstream by pulling its most recent
+1. [OPTIONAL] Since you are not working in the master branch you do not have to synchronize
+with the upstream, but if you want to do so anyway, you would pull its most recent
 version of the master branch into your repository:
 
     ```
@@ -121,11 +122,10 @@ branch locally and from the origin:
       git branch -d fuzzball
       git push -d origin fuzzball
     ```
-  and synchronize your fork with the upstream:
+   and synchronize your fork with the upstream:
 
     ```
       git push origin master
-
     ```
 
 1. Go back to the page of the class wiki named __Project Evaluations__
