@@ -42,12 +42,15 @@ There do not appear to be any clear instructions for how to download, build and 
 <br>
 
 3. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries? <br>
+
 Yes, the project does have some software module dependencies, a list of which can be found [here](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/meson.build). The project's [HACKME](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/HACKME) document provides a [link](http://www.valadoc.org/) to documentation for these libraries. The HACKME also points to an [article](https://blogs.gnome.org/tvb/2013/05/29/composite-templates-lands-in-vala/), which gives some indication of how a developer will work with UI templates.
 
 4. Is the code easy to understand? Browse some source code files and make a judgment based on your random sample. <br>
+
 Vala is a C-like language (perhaps unsurprising given that it compiles down to C) and is therefore fairly straightforward to read; thus the same can be said for the GNOME Clocks code. There are higher-level OOP concepts at play and this does detract from some clear readability, but as with any codebase, understanding comes with sufficient time.
 
 5. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
+
 According to OpenHub, GNOME Clocks consists of approximately six thousand lines of code and would therefore be considered a small project in the world of software development by that metric. While the project has over 250 contributors in total, work on it appears to be largely limited to a few developers. 
 
 1. Does the repository have tests?
@@ -78,46 +81,56 @@ There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) th
 
 1. How many commits have been made in the past week?
 <br>
-<b>23</b> commits have been made within the last week.
+<b>23</b> commits have been made within the last week. 
+<br>
 
 2. When was the most recent commit?
 <br>
 The most recent commit was authored 10 minutes ago. It was <a href="https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/e6465df5bd55006a2c3b75445eae8b725edcf74b">Update Turkish translation</a>.
+<br>
 
 3. How many issues are currently open?
 <br>
 There are <b>28</b> open issues as of now.
+<br>
 
 4. How long do issues stay open? 
 Take the five most recently closed issues and look at when each was first reported. Compute the number of days that each was open and take the average.
 <br>
     - 291 + 406 + 270 + 80 + 0 <br>
     - Average number of days an issue stays open based off of the last 5 closed issues: <b>209</b> days
+<br>
 
 5. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 <br>
 Yes, there is active discussion on the issues.
+<br>
 
 6. Are issues tagged as easy, hard, for beginners, etc.?
 <br>
 The issues are not tagged on their difficulty level. The tags I see are: Out of Scope, Feature, Crash, Bug, Translation, Needs Information, or Not Actionable. The "Out of Scope" and "Not Actionable" issues could be argued as high difficulty, however, there aren't issues that are tagged as easy or for beginners.
+<br>
 
 7. How many issues were closed in the past six months?
 <br>
 Within the last six months, **33** issues were closed.
+<br>
 
 8. Is there information about how many people are maintaining the project?
 <br>
 There are **2** maintainers for this project.
+<br>
 
 9. How many contributors has the project had in the past six months?
 <br>
 **286** authors staged **1924** commits within the last 10 months.
+<br>
 
 10. How many open pull requests are there?
 <br>
 There is currently **one** open merge request.
+<br>
 
 11. Do pull requests remain un-answered for a long time? Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
@@ -125,19 +138,25 @@ Compute the number of days that each was open and take the average.
 <br>
     - 65 + 0 + 0 + 0 + 202 
     - The average number of days pull requests stay open is **53** days.
+<br>
 
 12. Is there active discussion on the pull requests? Use the same method as you did for the issues.
 <br>
 Yes, there is active discussion on the pull requests.
+<br>
 
 13. How many pull requests were opened within the past six months?
 <br>
 There were **44** pull requests opened within the past six months.
+<br>
 
 14. When was the last  pull request  merged?
 <br>
 The last pull request was merged **one** hour ago.
+<br>
+
 ---
+
 ### Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough.
