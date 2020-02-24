@@ -24,7 +24,7 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the primary programming language in the project?
 <br>
-* It is 91.8% built from Javascript.
+* It is 91.8% built from Javascript. Other codes used are CSS, HTML, Shell, and R.
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
@@ -68,9 +68,11 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?
+* At least 18 commits have been made in the past week.
 <br>
 
 1. When was the most recent commit?
+* The most recent commit was an hour ago today on Feb 24 2020, at around an hour before 10:38AM.
 <br>
 
 1. How many issues are currently open?
@@ -85,29 +87,36 @@ Compute the number of days that each was open and take the average.
 
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
+* There is active discussions on the issues. Not only are they posted on the forums, they also have an issues tab for discussions. Usually the maintainers are the ones holding the discussions via questions and answers. 
 <br>
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
+* For the beginners, they are tagged as first timers and they are easy to find. The issues tagged as easy also have the maintainers active in them, giving clear solutions.
 <br>
 
 1. How many issues were closed in the past six months?
+* Roughly 425 issues were closed in last six months. 
 <br>
 
 
 1. Is there information about how many people are maintaining the project?
+* In their repository, at least 65 people are maintaining the project.
 <br>
 
 1. How many contributors has the project had in the past six months?
+* At least 45 contributors.
 <br>
 
 
 1. How many open pull requests are there?
+* There are currently 90 pull requests in the repository, but usually they're fulfilled on the same day they are requested.
 <br>
 
 1. Do pull requests remain un-answered for a long time?
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
+* 
 <br>
 
 1. Is there active discussion on the pull requests?
