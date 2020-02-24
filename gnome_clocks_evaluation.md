@@ -61,7 +61,7 @@ While there are a couple of tests for the UI, there do not appear to be any unit
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
 <br>
-Comments are sparse in the [src](https://gitlab.gnome.org/GNOME/gnome-clocks/-/tree/master/src) directory, but used in necessity to point out FIXME's, TODO's, translator notes, and steps in complicated functions. 
+Comments are sparse in the <a href="https://gitlab.gnome.org/GNOME/gnome-clocks/-/tree/master/src">src</a> directory, but used in necessity to point out FIXME's, TODO's, translator notes, and steps in complicated functions. 
 Some files are much more well documented than others, such as [alarm.vala](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/src/alarm.vala). Also, the functions and variables in the code are very clear and purposeful, helping hint at what is going on.
 
 2. Is there documentation about the design?
