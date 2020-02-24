@@ -103,7 +103,7 @@ There are <b>28</b> open issues as of now.
 4. How long do issues stay open? 
 Take the five most recently closed issues and look at when each was first reported. Compute the number of days that each was open and take the average.
 <br>
-    - 291 + 406 + 270 + 80 + 0 
+    - 291 + 406 + 270 + 80 + 0 <br>
     - Average number of days an issue stays open based off of the last 5 closed issues: <b>209</b> days
 
 <br>
