@@ -30,7 +30,7 @@ The primary coding language is C++.
 <br>
 
 
-*1. What is the development environment? For example, is it Gnu C++ on Linux?
+1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 
 There are [instructions](https://godotengine.org/download/linux) for how to download and build. The program require OpenGL 2.1/ OpenGL 2.0 compatibile hardware. 
@@ -75,7 +75,7 @@ There is insufficient in-code documentation.
 
 
 1. Is there documentation about the design?
-[](https://docs.godotengine.org/en/3.2/)
+Yes, there is documentation in the project's web page about design and [coding styleguides](https://docs.godotengine.org/en/3.2/community/contributing/code_style_guidelines.html). 
 <br>
 
 
@@ -111,57 +111,79 @@ There are tags based on expertise. The closest we found to beginner level was la
 <br>
 
 1. How many issues were closed in the past six months?
-1,825 issues were closed within the past six months.
+Approximately 1,325 issues were closed within the past six months (~Sept. 2020, Feb. 2020).
+
 <br>
 
 
 1. Is there information about how many people are maintaining the project?
+There are approximately over 60 maintainers, according to the project's contributor's page.
+
 <br>
 
 1. How many contributors has the project had in the past six months?
+There are 474 current contributors for the project.
+
 <br>
 
 
 1. How many open pull requests are there?
+There are 577 open pull requests.
+
 <br>
 
 1. Do pull requests remain un-answered for a long time?
-Look at the closed pull requests to see how long they stayed open.
-Take the five most recently closed ones and look at when each was first reported.
-Compute the number of days that each was open and take the average.
+Pull requests remain un-answered for about two hours.
+
 <br>
 
 1. Is there active discussion on the pull requests?
-Use the same method as you did for the issues.
+There are approximately three posts per discussion.
+
 <br>
 
 1. How many pull requests were opened within the past six months?
+There were 560 pull requests opened within the past six months.
+
 <br>
 
 
 1. When was the last  pull request  merged?
+The last pull request merged was two hours ago.
+
 <br>
 
 ---
 ### Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
-Look through it and see if it is clear and thorough.
+
+Yes, it includes instructions on how to report a bug, and contribute through a pull request. It is easy to read and understand.
+
 <br>
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violte it?
+
+Yes, any violations to the code of conduct results in exclusion from the community.
+
 <br>
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
-Read the issue conversations.
+
+Yes, they ask specific questions related to the bugs and are helpful in resolving the issue.
+
 <br>
 
 1. Are people friendly in the issues, discussion forum, and chat?
+
+
 <br>
 
 1. Do maintainers thank people for their contributions?
+Out of ten contributions examined, only 1 of them included a thank you to the contributor from the maintainer.
+
 <br>
 
 ### Summary
