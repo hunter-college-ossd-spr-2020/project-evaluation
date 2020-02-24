@@ -21,7 +21,6 @@ Each team will evaluate one of these in class.
 - [LibreOffice](https://www.libreoffice.org/)
 - [OpenEMR](https://www.open-emr.org/)
 - [OpenStreetMap](https://wiki.openstreetmap.org)
-- [OpenStreetMap](https://wiki.openstreetmap.org)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 
