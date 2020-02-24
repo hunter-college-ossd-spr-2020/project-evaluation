@@ -95,7 +95,7 @@ Read the conversations from some open and some closed issues.
 <br>
 
 1. How many issues were closed in the past six months?
-* Roughly 425 issues were closed in last six months. 
+* Roughly 375-425 issues were closed in last six months.  
 <br>
 
 
@@ -116,11 +116,12 @@ Read the conversations from some open and some closed issues.
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
-* 
+* Usually the pull requests are fulfilled on the same day they are requested.
 <br>
 
 1. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
+* 
 <br>
 
 1. How many pull requests were opened within the past six months?
