@@ -61,11 +61,13 @@ While there are a couple of tests for the UI, there do not appear to be any unit
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
 <br>
-Comments are sparse in the <a href="https://gitlab.gnome.org/GNOME/gnome-clocks/-/tree/master/src">src</a> directory, but used in necessity to point out FIXME's, TODO's, translator notes, and steps in complicated functions. 
+
+Comments are sparse in the [src](https://gitlab.gnome.org/GNOME/gnome-clocks/-/tree/master/src) directory, but used in necessity to point out FIXME's, TODO's, translator notes, and steps in complicated functions. 
 Some files are much more well documented than others, such as [alarm.vala](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/src/alarm.vala). Also, the functions and variables in the code are very clear and purposeful, helping hint at what is going on.
 
 2. Is there documentation about the design?
 <br>
+
 There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) that mentions the objectives of the app, however the rest of the page mainly contains mockups and wireframes of the app's frontend design. The GitLab repo doesn't seem to contain anything mentioning the code/directory structure or functional components of the project either.
 
 
@@ -77,85 +79,87 @@ There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) th
 
 1. How many commits have been made in the past week?
 <br>
-**23** commits have been made within the last week.
+<b>23</b> commits have been made within the last week.
 
-1. When was the most recent commit?
+2. When was the most recent commit?
 <br>
-The most recent commit was authored 10 minutes ago. It was [Update Turkish translation](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/e6465df5bd55006a2c3b75445eae8b725edcf74b).
+The most recent commit was authored 10 minutes ago. It was <a href="https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/e6465df5bd55006a2c3b75445eae8b725edcf74b">Update Turkish translation</a>.
 
-1. How many issues are currently open?
+3. How many issues are currently open?
 <br>
-There are **28** open issues as of now.
+There are <b>28</b> open issues as of now.
 
-1. How long do issues stay open? 
+4. How long do issues stay open? 
 Take the five most recently closed issues and look at when each was first reported. Compute the number of days that each was open and take the average.
 <br>
-    - 291 + 406 + 270 + 80 + 0
-    - Average number of days an issue stays open based off of the last 5 closed issues: **209** days
+    - 291 + 406 + 270 + 80 + 0 <br>
+    - Average number of days an issue stays open based off of the last 5 closed issues: <b>209</b> days
 
-1. Is there active discussion on the issues?
+5. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 <br>
 Yes, there is active discussion on the issues.
 
-1. Are issues tagged as easy, hard, for beginners, etc.?
+6. Are issues tagged as easy, hard, for beginners, etc.?
 <br>
 The issues are not tagged on their difficulty level. The tags I see are: Out of Scope, Feature, Crash, Bug, Translation, Needs Information, or Not Actionable. The "Out of Scope" and "Not Actionable" issues could be argued as high difficulty, however, there aren't issues that are tagged as easy or for beginners.
 
-1. How many issues were closed in the past six months?
+7. How many issues were closed in the past six months?
 <br>
 Within the last six months, **33** issues were closed.
 
-1. Is there information about how many people are maintaining the project?
+8. Is there information about how many people are maintaining the project?
 <br>
 There are **2** maintainers for this project.
 
-1. How many contributors has the project had in the past six months?
+9. How many contributors has the project had in the past six months?
 <br>
 **286** authors staged **1924** commits within the last 10 months.
 
-1. How many open pull requests are there?
+10. How many open pull requests are there?
 <br>
 There is currently **one** open merge request.
 
-1. Do pull requests remain un-answered for a long time? Look at the closed pull requests to see how long they stayed open.
+11. Do pull requests remain un-answered for a long time? Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
 <br>
     - 65 + 0 + 0 + 0 + 202 
     - The average number of days pull requests stay open is **53** days.
 
-1. Is there active discussion on the pull requests? Use the same method as you did for the issues.
+12. Is there active discussion on the pull requests? Use the same method as you did for the issues.
 <br>
 Yes, there is active discussion on the pull requests.
 
-1. How many pull requests were opened within the past six months?
+13. How many pull requests were opened within the past six months?
 <br>
 There were **44** pull requests opened within the past six months.
 
-1. When was the last  pull request  merged?
+14. When was the last  pull request  merged?
 <br>
 The last pull request was merged **one** hour ago.
 ---
 ### Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough.
+
 <br>
+
 There isn't a CONTRIBUTING file, but instead a [HACKME](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/HACKME) made to help new developers. It provides information and links for providing a good patch, working with the Vala programming language, and using their style enforcer, [Coala](https://github.com/coala/coala). The file is friendly and helpful, but not super thorough.
 
-1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it?
+2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it?
 <br>
 No CODE OF CONDUCT document exists.
 
-1. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.
+3. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.
 <br>
 Based off of the issue conversations, the community seems very understanding and knowledgable. I saw that a couple of people are really thankful for some issues being opened by the community. Also, if somebody is confused, then they would ask for clarification. If there is an unaddressed problem, then the community would explain what the issue is in great detail.
 
-1. Are people friendly in the issues, discussion forum, and chat?
+4. Are people friendly in the issues, discussion forum, and chat?
 <br>
 Yes, the people thank others for their contributions. If somebody asks a question, then others in the community are willing to answer without hesitation. If somebody is confused, then they would say "Can you please elaborate...?".
 
-1. Do maintainers thank people for their contributions?
+5. Do maintainers thank people for their contributions?
 <br>
 Yes, they do! As previously mentioned, the maintainers thanked the community when opening up very useful issues.
 
