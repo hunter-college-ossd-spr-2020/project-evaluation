@@ -13,8 +13,8 @@
 
 1. What is the project's license?
 - The project's license is under the MIT license. It grants permission to "deal with the software without restriction" including modifying, redistributing, and selling the code. 
-
 <br>
+
 ---
 
 ### Code Base
@@ -176,6 +176,7 @@ Are responses generally constructive?
 
 <br>
 
+---
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
