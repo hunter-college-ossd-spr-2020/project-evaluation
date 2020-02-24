@@ -155,10 +155,10 @@ There is currently <b>one</b> open merge request.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
 <br>
-    - 65 + 0 + 0 + 0 + 202 
+    - 65 + 0 + 0 + 0 + 202 <br>
     - The average number of days pull requests stay open is <b>53</b> days.
 
-<br>
+<br><br>
 
 12. Is there active discussion on the pull requests? Use the same method as you did for the issues.
 <br>
