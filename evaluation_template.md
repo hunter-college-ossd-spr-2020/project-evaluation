@@ -29,14 +29,16 @@ different licenses on specific files, but the project will have a main license.
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 <br>
-* It's coded mostly in Javascript
+* It's coded mostly in Javascript. The Readme has an organized structure, containing tabs for their topics and includes all the courses and certifications provided by the actual websites. The website also has a Youtube channel that can futher help new developers. Besides their Readme document, their forums are also helpful with the maintainers active in assisting new developers.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
+* It does not depend on an external additional software modules.  It only provides a repository to modify the website and its library of lessons. 
 <br>
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
+* The code is designed to be interactive due to most of the content on this site being tutorials that require interactivity via typing and/or links.
 <br>
 
 1. Is this a big project? If you can, find out about how many lines of code
@@ -72,11 +74,13 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
 
 1. How many issues are currently open?
+* There are about 161 open issues. But the closed issues are around 14,000.
 <br>
 
 1. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
+* They don't seem to be open for more than one day. The shortest open issue lasted for one hour.
 <br>
 
 1. Is there active discussion on the issues?
