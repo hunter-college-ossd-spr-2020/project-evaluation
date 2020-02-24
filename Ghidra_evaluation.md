@@ -18,6 +18,7 @@ In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 <br>
+The project has an Apache license 2.0. Specifically it has a permissive license.
 ---
 
 ### Code Base
@@ -25,38 +26,44 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the primary programming language in the project?
 <br>
+The primary language is Java. 
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 <br>
+In order to start developing extensions and scripts you would still have to install
+
+GhidraDev plugin for Eclipse. This plugin is easily downloadable from their homepage. The website is https://www.ghidra-sre.org/   .
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
 <br>
+Other than the distribution package that it provides on their website https://www.ghidra-sre.org/.   It can be typically run on user-interactive and automated modes. 
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
 <br>
+Based on my random sample I think it is fairly doable. The random sample that I picked was written in bash, which I’ve had some previous experience in from a previous class. 
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
-
+This is a huge project, the closest approximation is more than 2,800k and less than 3,000k.
 
 1. Does the repository have tests?
 <br>
-
+Yes, it has a few sample tests for their extensions, plugins, as well as other scripts.
 
 ---
 
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
 <br>
-
+There is some documentations of different components ,of the project itself, in different readme’s. But it’s very disorganized and often hard to digest. 
 
 1. Is there documentation about the design?
 <br>
-
+There is some documentation about the framework of the project, in different folders, but it is barely any. Most of the documentation is on the code itself if any code is documented.
 
 ---
 
