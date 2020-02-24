@@ -1,9 +1,9 @@
-**Project Name**:
+**Godot**:
 
 
 ---
 
-**Evaluating Person or Team**:
+**Shania Dhani, Michelle Lucero, ChiShing**:
 
 
 ---
@@ -12,6 +12,9 @@
 ### License
 
 1. What is the project's license?
+
+The project's license is under the a License written by the author. It grants permission to "deal with the software without restriction" including modifying, redistributing, and selling the code. 
+
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
@@ -22,14 +25,22 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+The primary coding language is C++.
+
 <br>
 
-1. What is the development environment? For example, is it Gnu C++ on Linux?
+
+*1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
+
+There are [instructions](https://godotengine.org/download/linux) for how to download and build. The program require OpenGL 2.1/ OpenGL 2.0 compatibile hardware. 
+
 <br>
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
+
+There are external libraries. This can be found under their "third party" directory in their main GithUB repository.
 <br>
 
 1. Is the code easy to understand? Browse some source code files and make
@@ -63,17 +74,20 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?
+The project has 62 commits between Februray 16 to Feb 22th.  
 <br>
 
 1. When was the most recent commit?
+The most recent commit was in the last hour.
 <br>
 
 1. How many issues are currently open?
+There are 5489 issues opened.
 <br>
 
 1. How long do issues stay open?
-Take the five most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average.
+On average, an issue is opened and closed within 35.4 hours.
+
 <br>
 
 1. Is there active discussion on the issues?
