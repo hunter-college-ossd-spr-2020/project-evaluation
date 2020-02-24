@@ -66,12 +66,12 @@ While there are a couple of tests for the UI, there do not appear to be any unit
 
 Comments are sparse in the [src](https://gitlab.gnome.org/GNOME/gnome-clocks/-/tree/master/src) directory, but used in necessity to point out FIXME's, TODO's, translator notes, and steps in complicated functions. 
 Some files are much more well documented than others, such as [alarm.vala](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/src/alarm.vala). Also, the functions and variables in the code are very clear and purposeful, helping hint at what is going on.
+<br>
 
 2. Is there documentation about the design?
 <br>
 
 There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) that mentions the objectives of the app, however the rest of the page mainly contains mockups and wireframes of the app's frontend design. The GitLab repo doesn't seem to contain anything mentioning the code/directory structure or functional components of the project either.
-
 
 ---
 
@@ -82,7 +82,6 @@ There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) th
 1. How many commits have been made in the past week?
 <br>
 <b>23</b> commits have been made within the last week. 
-<br>
 
 2. When was the most recent commit?
 <br>
