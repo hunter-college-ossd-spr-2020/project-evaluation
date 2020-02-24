@@ -81,54 +81,74 @@ There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) th
 
 1. How many commits have been made in the past week?
 <br>
+
 <b>23</b> commits have been made within the last week. 
+
+<br>
 
 2. When was the most recent commit?
 <br>
+
 The most recent commit was authored 10 minutes ago. It was <a href="https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/e6465df5bd55006a2c3b75445eae8b725edcf74b">Update Turkish translation</a>.
+
 <br>
 
 3. How many issues are currently open?
 <br>
+
 There are <b>28</b> open issues as of now.
+
 <br>
 
 4. How long do issues stay open? 
 Take the five most recently closed issues and look at when each was first reported. Compute the number of days that each was open and take the average.
 <br>
-    - 291 + 406 + 270 + 80 + 0 <br>
+    - 291 + 406 + 270 + 80 + 0 
     - Average number of days an issue stays open based off of the last 5 closed issues: <b>209</b> days
+
 <br>
 
 5. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 <br>
+
 Yes, there is active discussion on the issues.
+
 <br>
 
 6. Are issues tagged as easy, hard, for beginners, etc.?
 <br>
+
 The issues are not tagged on their difficulty level. The tags I see are: Out of Scope, Feature, Crash, Bug, Translation, Needs Information, or Not Actionable. The "Out of Scope" and "Not Actionable" issues could be argued as high difficulty, however, there aren't issues that are tagged as easy or for beginners.
+
 <br>
 
 7. How many issues were closed in the past six months?
 <br>
-Within the last six months, **33** issues were closed.
+
+Within the last six months, <b>33</b> issues were closed.
+
 <br>
 
 8. Is there information about how many people are maintaining the project?
 <br>
+
 There are **2** maintainers for this project.
+
 <br>
 
 9. How many contributors has the project had in the past six months?
 <br>
-**286** authors staged **1924** commits within the last 10 months.
+
+**286** authors staged <b>1924</b> commits within the last 10 months.
+
 <br>
 
 10. How many open pull requests are there?
 <br>
-There is currently **one** open merge request.
+
+There is currently <b>one</b> open merge request.
+
 <br>
 
 11. Do pull requests remain un-answered for a long time? Look at the closed pull requests to see how long they stayed open.
@@ -136,22 +156,29 @@ Take the five most recently closed ones and look at when each was first reported
 Compute the number of days that each was open and take the average.
 <br>
     - 65 + 0 + 0 + 0 + 202 
-    - The average number of days pull requests stay open is **53** days.
+    - The average number of days pull requests stay open is <b>53</b> days.
+
 <br>
 
 12. Is there active discussion on the pull requests? Use the same method as you did for the issues.
 <br>
+
 Yes, there is active discussion on the pull requests.
+
 <br>
 
 13. How many pull requests were opened within the past six months?
 <br>
+
 There were **44** pull requests opened within the past six months.
+
 <br>
 
 14. When was the last  pull request  merged?
 <br>
-The last pull request was merged **one** hour ago.
+
+The last pull request was merged <b>one</b> hour ago.
+
 <br>
 
 ---
