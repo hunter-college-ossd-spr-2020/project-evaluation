@@ -191,17 +191,25 @@ The last pull request was merged <b>one</b> hour ago.
 
 There isn't a CONTRIBUTING file, but instead a [HACKME](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/HACKME) made to help new developers. It provides information and links for providing a good patch, working with the Vala programming language, and using their style enforcer, [Coala](https://github.com/coala/coala). The file is friendly and helpful, but not super thorough.
 
+<br>
+
 2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it?
 <br>
 No CODE OF CONDUCT document exists.
+
+<br>
 
 3. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.
 <br>
 Based off of the issue conversations, the community seems very understanding and knowledgable. I saw that a couple of people are really thankful for some issues being opened by the community. Also, if somebody is confused, then they would ask for clarification. If there is an unaddressed problem, then the community would explain what the issue is in great detail.
 
+<br>
+
 4. Are people friendly in the issues, discussion forum, and chat?
 <br>
 Yes, the people thank others for their contributions. If somebody asks a question, then others in the community are willing to answer without hesitation. If somebody is confused, then they would say "Can you please elaborate...?".
+
+<br>
 
 5. Do maintainers thank people for their contributions?
 <br>
