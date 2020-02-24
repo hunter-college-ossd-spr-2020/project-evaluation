@@ -179,8 +179,6 @@ There were **44** pull requests opened within the past six months.
 
 The last pull request was merged <b>one</b> hour ago.
 
-<br>
-
 ---
 
 ### Welcomeness and Community
@@ -213,6 +211,8 @@ Yes, the people thank others for their contributions. If somebody asks a questio
 5. Do maintainers thank people for their contributions?
 <br>
 Yes, they do! As previously mentioned, the maintainers thanked the community when opening up very useful issues.
+
+---
 
 ### Summary
 Do you think this is a project to which it would be possible to contribute in the course of a semester?
