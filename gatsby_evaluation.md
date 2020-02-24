@@ -8,7 +8,7 @@ What is the project's license? In most repositories there will be a file named L
 
 ---
 ## Code Base
-1. What is the primary programming language in the project?
+1. What is the primary programming language in the project?  
 JavaScript
 
 1. What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install?
