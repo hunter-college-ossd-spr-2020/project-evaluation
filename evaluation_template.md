@@ -1,9 +1,9 @@
-**Project Name**:
+**Project Name**: FreeCodeCamp
 
 
 ---
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Denise, Chris, Jared
 
 
 ---
@@ -16,6 +16,7 @@ In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 <br>
+
 ---
 
 ### Code Base
@@ -23,10 +24,12 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the primary programming language in the project?
 <br>
+* It is 91.8% built from Javascript.
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 <br>
+* It's coded mostly in Javascript
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
@@ -120,18 +123,22 @@ Use the same method as you did for the issues.
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough.
 <br>
+* It is easy to read, and also guides you in how you can contribute to the projects, while showcasing Q&As for contribution.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violte it?
 <br>
+* No trolling, no spamming or taking away from the discussions. Violations of code of conduct will result in a ban.
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 Read the issue conversations.
 <br>
+* The maintainers respond helpfully by explaining clearly the solution and also showing screenshots of the solution's code. They also answer quickly, from 30 minutes - 1 hour.
 
 1. Are people friendly in the issues, discussion forum, and chat?
 <br>
+* It's an overall friendly environment. There are informal talk in the userbase but the maintainers are very friendly and are always willing to help. 
 
 1. Do maintainers thank people for their contributions?
 <br>
