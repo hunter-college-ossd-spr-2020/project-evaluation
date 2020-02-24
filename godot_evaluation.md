@@ -158,7 +158,7 @@ The last pull request merged was two hours ago.
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 
-Yes, it includes instructions on how to report a bug, and contribute through a pull request. It is easy to read and understand.
+Yes, it includes instructions on how to report a bug, and contribute through a pull request. It is clear and thorough.
 
 <br>
 
@@ -178,6 +178,7 @@ Yes, they ask specific questions related to the bugs and are helpful in resolvin
 
 1. Are people friendly in the issues, discussion forum, and chat?
 
+Yes, overall the community seems friendly, informative, and polite.
 
 <br>
 
@@ -189,3 +190,5 @@ Out of ten contributions examined, only 1 of them included a thank you to the co
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
+
+Given our group's availability, it is unlikely that we would be able to contribute to this project during the course of the semester. This is because, since issues are opened and closed within a short span of time, and seem to require a lot of personal expertise, it would be hard to address them. 
