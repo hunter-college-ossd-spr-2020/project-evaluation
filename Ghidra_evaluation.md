@@ -133,7 +133,7 @@ No, there is no active discussion on the pull requests
 
 1. When was the last  pull request  merged?
 <br>
-The last pull request was merged 11 days ago
+The last pull request was merged 11 days ago 
 
 ---
 ### Welcomeness and Community
