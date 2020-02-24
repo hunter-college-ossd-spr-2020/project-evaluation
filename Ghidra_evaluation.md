@@ -73,55 +73,67 @@ There is some documentation about the framework of the project, in different fol
 
 1. How many commits have been made in the past week?
 <br>
+17 week of Feb. 16 and 1 commit as of Feb. 23 =  18 commits in the past week
 
 1. When was the most recent commit?
 <br>
+Most recent commit was today, Mon. Feb. 24, 2 hours ago
 
 1. How many issues are currently open?
 <br>
+Currently 503 open issues
 
 1. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
 <br>
+Issues remain open for about 38 days [(2+10+15+151+14)/5]
 
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 <br>
+Yes, there is active discussion on the issues
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
 <br>
+No, issues are not tagged by difficulty
 
 1. How many issues were closed in the past six months?
 <br>
-
+256 issues were closed in the past 6 months
 
 1. Is there information about how many people are maintaining the project?
 <br>
+No, but it is maintained by the National Security Agency (NSA) Research Directorate
 
 1. How many contributors has the project had in the past six months?
 <br>
+40 contributors in the past 6 months
 
 
 1. How many open pull requests are there?
 <br>
+69 open pull request
 
 1. Do pull requests remain un-answered for a long time?
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
 <br>
+Yes, requests remain unanswered for about 44 days on average
 
 1. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
 <br>
+No, there is no active discussion on the pull requests
 
 1. How many pull requests were opened within the past six months?
 <br>
-
+44 pull requests were opened within the past 6 months
 
 1. When was the last  pull request  merged?
 <br>
+The last pull request was merged 11 days ago
 
 ---
 ### Welcomeness and Community
