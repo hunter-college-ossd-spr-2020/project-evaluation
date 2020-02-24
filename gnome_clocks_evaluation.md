@@ -106,7 +106,7 @@ Take the five most recently closed issues and look at when each was first report
     - 291 + 406 + 270 + 80 + 0 <br>
     - Average number of days an issue stays open based off of the last 5 closed issues: <b>209</b> days
 
-<br>
+<br> <br>
 
 5. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
