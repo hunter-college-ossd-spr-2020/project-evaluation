@@ -16,13 +16,13 @@
 The project is under the MIT license. It grants permission to "deal with the software without restriction" including modifying, redistributing, and selling the code. 
 
 <br>
+
 ---
 
 ### Code Base
 
-
 1. What is the primary programming language in the project?
-The primary coding language is C++.
+- The primary coding language is C++.
 
 <br>
 
@@ -91,11 +91,11 @@ The most recent commit was in the last hour.
 <br>
 
 1. How many issues are currently open?
-There are 5489 issues opened.
+- There are 5489 issues opened.
 <br>
 
 1. How long do issues stay open?
-On average, an issue is opened and closed within 35.4 hours.
+- On average, an issue is opened and closed within 35.4 hours.
 
 <br>
 
@@ -104,11 +104,11 @@ Yes, it is common to see more than two messages per issue.
 <br>
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
-There are tags based on expertise. The closest we found to beginner level was labeled junior job.
+- There are tags based on expertise. The closest we found to beginner level was labeled junior job.
 <br>
 
 1. How many issues were closed in the past six months?
-Approximately 1,325 issues were closed within the past six months (~Sept. 2020, Feb. 2020).
+- Approximately 1,325 issues were closed within the past six months (~Sept. 2020, Feb. 2020).
 
 <br>
 
@@ -119,34 +119,34 @@ There are approximately over **60 maintainers, according to the project's contri
 <br>
 
 1. How many contributors has the project had in the past six months?
-There are 474 current contributors for the project.
+- There are 474 current contributors for the project.
 
 <br>
 
 
 1. How many open pull requests are there?
-There are 577 open pull requests.
+- There are 577 open pull requests.
 
 <br>
 
 1. Do pull requests remain un-answered for a long time?
-Pull requests remain un-answered for about two hours.
+- Pull requests remain un-answered for about two hours.
 
 <br>
 
 1. Is there active discussion on the pull requests?
-There are approximately three posts per discussion.
+- There are approximately three posts per discussion.
 
 <br>
 
 1. How many pull requests were opened within the past six months?
-There were 560 pull requests opened within the past six months.
+- There were 560 pull requests opened within the past six months.
 
 <br>
 
 
 1. When was the last  pull request  merged?
-The last pull request merged was two hours ago.
+- The last pull request merged was two hours ago.
 
 <br>
 
@@ -155,35 +155,36 @@ The last pull request merged was two hours ago.
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 
-Yes, it includes instructions on how to report a bug, and contribute through a pull request. It is clear and thorough.
+- Yes, it includes instructions on how to report a bug, and contribute through a pull request. It is clear and thorough.
 
 <br>
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violte it?
 
-Yes, any violations to the code of conduct results in exclusion from the community.
+- Yes, any violations to the code of conduct results in exclusion from the community.
 
 <br>
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 
-Yes, they ask specific questions related to the bugs and are helpful in resolving the issue.
+- Yes, they ask specific questions related to the bugs and are helpful in resolving the issue.
 
 <br>
 
 1. Are people friendly in the issues, discussion forum, and chat?
 
-Yes, overall the community seems friendly, informative, and polite.
+- Yes, overall the community seems friendly, informative, and polite.
 
 <br>
 
 1. Do maintainers thank people for their contributions?
-Out of ten contributions examined, only 1 of them included a thank you to the contributor from the maintainer.
+- Out of ten contributions examined, only 1 of them included a thank you to the contributor from the maintainer.
 
 <br>
 
+---
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
