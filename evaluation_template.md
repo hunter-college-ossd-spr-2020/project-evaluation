@@ -125,6 +125,7 @@ Use the same method as you did for the issues.
 <br>
 
 1. How many pull requests were opened within the past six months?
+* 97 pull requests.
 <br>
 
 
