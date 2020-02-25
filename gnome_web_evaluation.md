@@ -26,29 +26,29 @@ License was in a file titled "COPYING". The license used is the GNU Public Licen
 <br>
 C and Javascript
 
-1. What is the development environment? For example, is it Gnu C++ on Linux?
+2. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 Downloaded, and compiled using their JHBuild program. Makes use of GNU Toolchain programs and python runtime. 
 Additionally there are instructions for building from the source in the README.md file. Utilizes the Meson build system.
 <br>
 
-1. Does the project depend on external additional software modules such as
+3. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
 <br>
 Python runtime environment.
 
-1. Is the code easy to understand? Browse some source code files and make
+4. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
 <br>
 No. They really don't comment or document their code.
 
-1. Is this a big project? If you can, find out about how many lines of code
+5. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
 156,000 lines of code as of now.
 
 
-1. Does the repository have tests?
+6. Does the repository have tests?
 <br>
 Yes.
 
@@ -60,7 +60,7 @@ Yes.
 <br>
 There is an absence of comment in their C files (both the source and the header files). Their style is also horrifying (personally).
 
-1. Is there documentation about the design?
+2. Is there documentation about the design?
 <br>
 For their code style and project structure, yes. Looking further there appears to be more on design, like the "Modern WebKit Process Architecture." Upon second look, alot of design info is in the README.md file. Front end guidelines, their manifesto (and its components), etc.
 
@@ -75,65 +75,65 @@ For their code style and project structure, yes. Looking further there appears t
 <br>
 **41 Commits** (or pipelines, according to Gitlab).
 
-1. When was the most recent commit?
+2. When was the most recent commit?
 <br>
 Last commit was fifteen hours ago.
 
-1. How many issues are currently open?
+3. How many issues are currently open?
 <br>
 182
 
-1. How long do issues stay open?
+4. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
 <br>
 At least 19 days
 
-1. Is there active discussion on the issues?
+5. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 <br>
 Sort of? Some have conversations dotting along the months on a single issue, others are closed with zero comments.
 
-1. Are issues tagged as easy, hard, for beginners, etc.?
+6. Are issues tagged as easy, hard, for beginners, etc.?
 <br>
 Only four issues are tagged for "newcomers" yet they were all opened at least a year ago.
 No tags regarding difficulty of issue.
 
-1. How many issues were closed in the past six months?
+7. How many issues were closed in the past six months?
 <br>
 286 (manually counted. Can't do date searches on Gitlab and the Github has no issue tracker).
 
-1. Is there information about how many people are maintaining the project?
+8. Is there information about how many people are maintaining the project?
 <br>
 Among the Gitlab, Github, and project website, I was unable to find any definitive list of maintainers. I've seen two that are active in comments, issues, commits, and so forth.
 
-1. How many contributors has the project had in the past six months?
+9. How many contributors has the project had in the past six months?
 <br>
 OpenHub's graph puts active contributors for the last 6 months at 26 contributors.
 
 
-1. How many open pull requests are there?
+10. How many open pull requests are there?
 <br>
-Open merge requests on Gitlab total at eight. There’s no open pull requests on their Github.
+Open merge requests on Gitlab total at eight. Thereâ€™s no open pull requests on their Github.
 
-1. Do pull requests remain un-answered for a long time?
+11. Do pull requests remain un-answered for a long time?
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
 <br>
 No, they're merged almost within the same day. Largest deviation witnessed is perhaps a whole day, but nothing more.
 
-1. Is there active discussion on the pull requests?
+12. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
 <br>
 Not really, no.
 
-1. How many pull requests were opened within the past six months?
+13. How many pull requests were opened within the past six months?
 <br>
-Github says one. There’s eight on the Gitlab, advanced search doesn't provide for searching by date created.
+Github says one. Thereâ€™s eight on the Gitlab, advanced search doesn't provide for searching by date created.
 
 
-1. When was the last pull request merged?
+14. When was the last pull request merged?
 <br>
 3 days ago.
 
@@ -145,22 +145,22 @@ Look through it and see if it is clear and thorough.
 <br>
 It exists. Major sections are **Software versions**, **Web Content Bugs**, and **Crashes**.
 
-1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
+2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it?
 <br>
 Can't be found. The community seems quite civil and even self-reflective somehow.
 
-1. Do the maintainers respond helpfully to questions in issues?
+3. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 Read the issue conversations.
 <br>
 Yes.  Responses are generally constructive, insightful. 
 
-1. Are people friendly in the issues, discussion forum, and chat?
+4. Are people friendly in the issues, discussion forum, and chat?
 <br>
 In the issues, yes. There is an IRC as well, but no other asynchronous discussion channels have been found.
 
-1. Do maintainers thank people for their contributions?
+5. Do maintainers thank people for their contributions?
 <br>
 No. Some merge requests get merged without any discussion.
 
