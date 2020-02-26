@@ -23,13 +23,13 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
-<br>
 * It is 91.8% built from Javascript. Other codes used are CSS, HTML, Shell, and R.
+<br>
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
-<br>
 * It's coded mostly in Javascript. The Readme has an organized structure, containing tabs for their topics and includes all the courses and certifications provided by the actual websites. The website also has a Youtube channel that can futher help new developers. Besides their Readme document, their forums are also helpful with the maintainers active in assisting new developers.
+<br>
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
@@ -109,7 +109,7 @@ Read the conversations from some open and some closed issues.
 
 
 1. How many open pull requests are there?
-* There are currently 90 pull requests in the repository, but usually they're fulfilled on the same day they are requested.
+* There are currently around 100 open pull requests.
 <br>
 
 1. Do pull requests remain un-answered for a long time?
@@ -121,15 +121,16 @@ Compute the number of days that each was open and take the average.
 
 1. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
-* 
+* Depending on the issues, there are active discussions that have 8 replies as part of the comment thread. However, some of the requests don't have discussions and the only reply is by a bot that links to a review in Gitpod.
 <br>
 
 1. How many pull requests were opened within the past six months?
-* 97 pull requests.
+* 101 pull requests.
 <br>
 
 
 1. When was the last  pull request  merged?
+* The last pull request merged was around 5-6 AM on Feb 26, 2020.
 <br>
 
 ---
