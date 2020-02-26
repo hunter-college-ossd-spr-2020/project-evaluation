@@ -154,6 +154,8 @@ violate it?
 * Yes! Maintainers thank users for their contributions and will also congratulate them if it was their first time contributing.
 <br>
 
+---
+
 ### Summary
 
 #### Do you think  this is a project to which it would be possible to contribute in the course of a semester?
