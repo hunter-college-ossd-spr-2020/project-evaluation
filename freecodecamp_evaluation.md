@@ -3,7 +3,7 @@
 
 ---
 
-**Evaluating Person or Team**: Denise, Chris, Jared
+**Evaluating Person or Team**: Denice, Chris, Jared
 
 
 ---
