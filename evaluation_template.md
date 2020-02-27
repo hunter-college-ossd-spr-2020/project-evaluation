@@ -1,10 +1,10 @@
 **Project Name**:
-
+Facebook Folly
 
 ---
 
 **Evaluating Person or Team**:
-
+Troy Daniello, Edmund Adewa
 
 ---
 
@@ -12,6 +12,8 @@
 ### License
 
 1. What is the project's license?
+_Permissive License_
+
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
@@ -24,6 +26,8 @@ different licenses on specific files, but the project will have a main license.
 1. What is the primary programming language in the project?
 <br>
 
+_C++_
+
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 <br>
@@ -31,6 +35,8 @@ Are there instructions for how to download, build, and install?
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
 <br>
+
+It relies on facebook libraries and 
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
@@ -63,18 +69,21 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?
-<br>
+<br> 34
 
 1. When was the most recent commit?
-<br>
+<br> Feb 26
 
 1. How many issues are currently open?
-<br>
+<br> 173
 
 1. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
-<br>
+<br> 
+
+Most issues are closed relatively quickly after they are opened as in in the same day or by a few days later.
+1+1+1+2+4 = 9/5 = 1.8 days
 
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
@@ -121,9 +130,13 @@ Use the same method as you did for the issues.
 Look through it and see if it is clear and thorough.
 <br>
 
+Yes, in order to have a pull request accepted, one must sign a contributor license agreement.
+
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violte it?
 <br>
+
+There is a description of enforcement, there is a contact email 
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
