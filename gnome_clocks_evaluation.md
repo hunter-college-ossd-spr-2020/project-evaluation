@@ -34,9 +34,7 @@ different licenses on specific files, but the project will have a main license.
 1. Is the code easy to understand? Browse some source code files and make a judgment based on your random sample. <br>
 Vala is a C-like language (perhaps unsurprising given that it compiles down to C) and is therefore fairly straightforward to read; thus the same can be said for the GNOME Clocks code. There are higher-level OOP concepts at play and this does detract from some clear readability, but as with any codebase, understanding comes with sufficient time.
 
-1. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/). 
-<br>
-According to OpenHub, GNOME Clocks consists of approximately six thousand lines of code and would therefore be considered a small project in the world of software development by that metric. While the project has over 250 contributors in total, work on it appears to be largely limited to a few developers. 
+1. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>According to OpenHub, GNOME Clocks consists of approximately six thousand lines of code and would therefore be considered a small project in the world of software development by that metric. While the project has over 250 contributors in total, work on it appears to be largely limited to a few developers. 
 
 1. Does the repository have tests?<br>While there are a couple of tests for the UI, there do not appear to be any unit tests for the balance of the code.
 ---
