@@ -63,32 +63,47 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 ### Activity Level
 
 
-1. How many commits have been made in the past week?
+1. How many commits have been made in the past week?  
+* No commits have been made in the past week to the master branch but 14 commits have been made to all branches.
 <br>
 
-2. When was the most recent commit?
+2. When was the most recent commit?  
+* The most recent commit was on Febuary 3.
 <br>
 
-3. How many issues are currently open?
+3. How many issues are currently open?  
+* Currently there are 405 issues open.
 <br>
 
-4. How long do issues stay open?
-Take the five most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average.
+4. How long do issues stay open?  
+Take the five most recently closed issues and look at when each was first reported.  
+Compute the number of days that each was open and take the average.  
+  1. Opened 8 days ago -- closed 2 days ago -- total of 7 days
+  2. Opened 3 days ago -- closed 2 days ago -- total of 2 days
+  3. Opened 5 days ago -- closed 3 days ago -- total of 3 days
+  4. opened 22 days ago -- closed 3 days ago -- total of 20 days
+  5. Opened 4 days ago -- closed 3 days ago -- total of 2 day  
+* (7+2+3+20+2)/5 = 34 days total / 6.8 = **6.8 days open on average**  
+
 <br>
 
-5. Is there active discussion on the issues?
-Read the conversations from some open and some closed issues.
+5. Is there active discussion on the issues?  
+Read the conversations from some open and some closed issues.  
+* Conversations are fairly scarce in the open issues. On the other hand, in the closed issues, if the issue could not be immediately
+solved, then active discussions would take place to either understand the problem or flesh out what exactly needs to be fixed. But the observable majority of conversations have 1 or no comments.
 <br>
 
-6. Are issues tagged as easy, hard, for beginners, etc.?
+6. Are issues tagged as easy, hard, for beginners, etc.?  
+The issues are not tagged as easy, hard, for beginners, or anything of the sort.
 <br>
 
-7. How many issues were closed in the past six months?
+7. How many issues were closed in the past six months?  
+* 292 issues were closed in the past six months
 <br>
 
 
-8. Is there information about how many people are maintaining the project?
+8. Is there information about how many people are maintaining the project?  
+* 
 <br>
 
 9. How many contributors has the project had in the past six months?
