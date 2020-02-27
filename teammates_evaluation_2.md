@@ -51,11 +51,11 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
-<br>
+<br> The code is well documented: it is immediately apparent from visual inspection and is confirmed by OpenHub's statistic that there just over 22K lines of comments in the repository. 
 
 
 1. Is there documentation about the design?
-<br>
+<br> Yes, there is very thoughtful and comprehensive documentation about the design [here](https://github.com/TEAMMATES/teammates/blob/master/docs/design.md).
 
 
 ---
