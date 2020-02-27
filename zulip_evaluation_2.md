@@ -57,37 +57,34 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 ### Activity Level
 
 
-1. How many commits have been made in the past week?
+1. How many commits have been made in the past week? **There have been 97 commits in the past week (Feb. 20th-Feb.27th).**
 <br>
 
-1. When was the most recent commit?
+1. When was the most recent commit? **The most recent commit was within the last hour (9:00 AM EST Feb. 27th).**
 <br>
 
-1. How many issues are currently open?
+1. How many issues are currently open? **1,019 issues are currently opened in the project.**
 <br>
 
 1. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average.
+Compute the number of days that each was open and take the average. **Issues stay open for an average of 2.4 days**
 <br>
 
 1. Is there active discussion on the issues?
-Read the conversations from some open and some closed issues.
+Read the conversations from some open and some closed issues. **Yes, it appears that there is a lot of discussion happening in individual issues. They appear to overall friendly and professional.**
 <br>
 
-1. Are issues tagged as easy, hard, for beginners, etc.?
+1. Are issues tagged as easy, hard, for beginners, etc.? **There is a difficulty tag called *difficult*, but there are no tags categoriing work for beginners nor easy.**
 <br>
 
 1. How many issues were closed in the past six months?
 <br>
 
-
 1. Is there information about how many people are maintaining the project?
 <br>
-
 1. How many contributors has the project had in the past six months?
 <br>
-
 
 1. How many open pull requests are there?
 <br>
