@@ -15,8 +15,8 @@ Gillian
 ### License  
 
 1. What is the project's license?  
-In most repositories there will be a file named LICENSE or something similar in  
-the root level of the repository. This is the one to examine. There may be  
+In most repositories there will be a file named LICENSE or something similar in
+the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.  
 * The project has an Apache license 2.0. Specifically it has a permissive license.
 <br>
@@ -36,17 +36,17 @@ Are there instructions for how to download, build, and install?
 * GhidraDev plugin for Eclipse. This plugin is easily downloadable from their homepage. The website is https://www.ghidra-sre.org/   .
 <br>
 
-3. Does the project depend on external additional software modules such as  
+3. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?  
 * Other than the distribution package that it provides on their website https://www.ghidra-sre.org/.   It can be typically run on user-interactive and automated modes.
 <br>
 
-4. Is the code easy to understand? Browse some source code files and make  
+4. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.  
 * Based on my random sample I think it is fairly doable. The random sample that I picked was written in bash, which I’ve had some previous experience in from a previous class. 
 <br>
 
-5. Is this a big project? If you can, find out about how many lines of code  
+5. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).  
 * This is a huge project, the closest approximation is more than 2,800k and less than 3,000k.
 <br>
@@ -157,7 +157,7 @@ Look through it and see if it is clear and thorough.
 * The document is well organized and presented using basic language. This allows people with any git knowlege to easily understand the document.
 <br>
 
-2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that  
+2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violte it?  
 * There is no CODE OF CONDUCT document in this repository.
 <br>
@@ -178,6 +178,6 @@ Comments in issues were all either leading to more discussion or thankful.
 <br>
 
 ### Summary
-Do you think  this is a project to which it would be possible to contribute in the  
+Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?  
 * We do not think this is a project we would **want** to contribute to throught the semester. Although the community seems all around pleasant, the lack of a Code of Conduct shows us that the maintainers may be rude at any point of the project. Moreover, the issues are mostly untagged, so finding something to work on is almost a blind pick. Without reading through tens of issues and attempting many as well, a new community member would find it difficult to work on a issue appropiate for their level. Another issue we have with this project is 86% if it is coded in Java which the three of us have very little, _if not any_ coding knowledge in. Our contributions would likely be negligible or insufficient considering our skill level.
