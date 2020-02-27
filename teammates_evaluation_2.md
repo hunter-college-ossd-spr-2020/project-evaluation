@@ -1,10 +1,12 @@
-**Project Name**:
+**Project Name**: 
+TEAMMATES
+([Github Repository](https://github.com/TEAMMATES/teammates))
 
 
 ---
 
-**Evaluating Person or Team**:
-
+**Evaluating Person or Team**: 
+Daniel Mallia
 
 ---
 
@@ -15,34 +17,34 @@
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
-<br>
+<br> The TEAMMATES license is the GNU General Public License Version 2, 1991. 
 ---
 
 ### Code Base
 
 
 1. What is the primary programming language in the project?
-<br>
+<br> Java is the the leading programming language in the project: Github reports that 76.4% of the project consists of Java code. 
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
-<br>
+<br> The development environment for TEAMMATES consists of Git, the Java Development Kit, the Gradle Build Tool, and Python 2.7 for any kind of work on the project, and Node.js and Angular CLI (only recommended)  There is a nice guide for setting up this "TEAMMATES development environment" [here](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md).
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
-<br>
+<br> The project depends on the external software  listed in the package.json file - npm (Node Package Manager) refers to this file and using *npm install* will install these.
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
-<br>
+<br> The code in TEAMMATES does seem to be very clean and easy to read. [This](https://github.com/TEAMMATES/teammates/blob/master/src/main/java/teammates/logic/core/InstructorsLogic.java) is a very nice example.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).
-<br>
+<br> Yes, TEAMMATES does appear to be a project of considerable size. According to [OpenHub's Page](https://www.openhub.net/p/teammates-on-github/analyses/latest/languages_summary), TEAMMATES consists of almost 140K lines of code. 
 
 
 1. Does the repository have tests?
-<br>
+<br> Yes, there is an entire folder dedicated to testing code. 
 
 
 ---
