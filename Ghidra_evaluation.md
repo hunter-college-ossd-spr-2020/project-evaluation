@@ -1,11 +1,11 @@
 **Project Name**:
-Ghidra
+[Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 ---
 
-**Evaluating Person or Team**:
-Christina
-Erick
+**Evaluating Person or Team**:  
+Christina  
+Erick  
 Gillian
 
 ---
