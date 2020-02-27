@@ -26,12 +26,10 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project? 
-<br>
 
 [**Vala**](https://wiki.gnome.org/Projects/Vala) is the main programming language.
 
 1. What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install? 
-<br>
 
 As GNOME Clocks is primarily written in Vala, which gets compiled down to C (instead of machine language) and then compiled for local use with a C compiler, contributing would involve a couple of ingredients. These are the: 
 - Vala compiler 
@@ -42,7 +40,6 @@ As GNOME Clocks is primarily written in Vala, which gets compiled down to C (ins
 There do not appear to be any clear instructions for how to download, build and install.
 
 1. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries?
-<br>
 
 Yes, the project does have some software module dependencies, a list of which can be found [here](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/meson.build). The project's [HACKME](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/HACKME) document provides a [link](http://www.valadoc.org/) to documentation for these libraries. The HACKME also points to an [article](https://blogs.gnome.org/tvb/2013/05/29/composite-templates-lands-in-vala/), which gives some indication of how a developer will work with UI templates.
 
