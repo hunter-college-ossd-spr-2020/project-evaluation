@@ -1,9 +1,9 @@
-**Project Name**:
+**Django**:
 
 
 ---
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team: Elijah and Caitlin (Evaluation by Elijah)**:
 
 
 ---
@@ -15,6 +15,7 @@
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
+* Django doesn't have a main license such as GNU, instead it has it's own personalized license that simply states that their product is for free of use as long as you don't use/make modifications to their product for money-making purposes.
 <br>
 ---
 
@@ -22,26 +23,29 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+* The primary programming language of the project is Python.
 <br>
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
-Are there instructions for how to download, build, and install?
+* The development environment simply consists of Python and any text editor. They suggest to use a text editor that is supported by EditorConfig.
 <br>
 
 1. Does the project depend on external additional software modules such as
-database,  graphics, web development, or other libraries?
+* No, the project does not depend on any external addional software modules.
 <br>
 
 1. Is the code easy to understand? Browse some source code files and make
-a judgment based on your random sample.
+* The code is indeed very simplistic and easy to understand. There are a wide range of comments in each source code file.
 <br>
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).
+* I would say that this project is a medium-sized projct. It may seem very large for a begginer, but in contrast to other Open Source projects, it isn't as big.
 <br>
 
 
 1. Does the repository have tests?
+* Yes, the project has a whole entire subdirectory called and related to tests.
 <br>
 
 
@@ -63,31 +67,36 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?
+* There was a total of 16 commits made in the past week.
 <br>
 
 1. When was the most recent commit?
+* The most recent commit was 10 hours ago.
 <br>
 
 1. How many issues are currently open?
+* The number of issues that are currently open cannot be found on their github project; however, if you go to the DjangoProject website, it states that there are a total of 1273 issues currently open.    
 <br>
 
 1. How long do issues stay open?
-Take the five most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average.
+* Issues stay open for an average of 17.6 hours.
 <br>
 
 1. Is there active discussion on the issues?
-Read the conversations from some open and some closed issues.
+* Yes, on most issues there is a very active discussion regarding any questions, problems, or suggestions concerning the respective issue. 
 <br>
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
+* Issues are tagged with a little description of what they're about, but not with their respective difficulty. Hard to find tasks for beginners.
 <br>
 
 1. How many issues were closed in the past six months?
+* 
 <br>
 
 
 1. Is there information about how many people are maintaining the project?
+* Yes, there are currently 1,860 contributors maintaining the project.
 <br>
 
 1. How many contributors has the project had in the past six months?
