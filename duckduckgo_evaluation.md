@@ -1,9 +1,9 @@
-**Project Name**:
+**Project Name**: Duckduckgo Privacy Extension
 
 
 ---
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Boubacar, Chris
 
 
 ---
@@ -11,10 +11,8 @@
 
 ### License
 
-1. What is the project's license?
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
+#### What is the project's license? In most repositories there will be a file named LICENSE or something similar in the root level of the repository. This is the one to examine. There may be different licenses on specific files, but the project will have a main license.
+* It is licensed under the Apache License, Version 2.0. The license does not apply to any DuckDuckGo logos and marks contained within this project's repo. DuckDuckGo logos and marks are licensed seperately under the CCBY-NC-ND 4.0 license.
 <br>
 ---
 
@@ -28,8 +26,8 @@ different licenses on specific files, but the project will have a main license.
 Are there instructions for how to download, build, and install?
 <br>
 
-1. Does the project depend on external additional software modules such as
-database,  graphics, web development, or other libraries?
+#### Does the project depend on external additional software modules such as database, graphics, web development, or other libraries?
+* The project is a browser extension, so it just needs a compatible browser. As of now, it's only compatible with Chrome and Firefox.
 <br>
 
 1. Is the code easy to understand? Browse some source code files and make
@@ -41,18 +39,21 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
 
 
-1. Does the repository have tests?
+#### Does the repository have tests?
+* Yes, the repository contains some tests. Within the repository, the project also has an integration test, selenium test, and unit test. Also, the CONTRIBUTING.md file gives clear instructions on how to perform tests.
 <br>
 
 
 ---
 
 ### Code and Design Documentation
-1. Is there clear documentation in the code itself?
+
+#### Is there clear documentation in the code itself?
+* Yes, the documentation is very clear for a newcoming contributer.
 <br>
 
-
-1. Is there documentation about the design?
+#### Is there documentation about the design?
+* There are a handful of documentation about the design, but it doesn't specify on what the code is exactly designing.
 <br>
 
 
