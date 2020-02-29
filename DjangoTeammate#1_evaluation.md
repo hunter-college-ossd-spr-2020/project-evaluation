@@ -30,7 +30,7 @@ different licenses on specific files, but the project will have a main license.
 <br>
 
 1. Does the project depend on external additional software modules such as
-database,  graphics, web development, or other libraries?
+database, graphics, web development, or other libraries?
 * No, the project does not depend on any external addional software modules.
 <br>
 
@@ -53,10 +53,12 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
+* Yes, in some files there are tons of clear documentation; however, in other files there isn't all that much.
 <br>
 
 
 1. Is there documentation about the design?
+* Yes, there is a matter of fact documentation concerning the design. Some design philosophies include "don't repeat youself" and "explicit is better than implicit."
 <br>
 
 
