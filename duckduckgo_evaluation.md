@@ -63,56 +63,63 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 ### Activity Level
 
 
-1. How many commits have been made in the past week?
+#### How many commits have been made in the past week?
+* There weren't any commits made in the past week as of Feb 29, 2020.
 <br>
 
-1. When was the most recent commit?
+#### When was the most recent commit?
+* The most recent commit was on December 12, 2019.
 <br>
 
-1. How many issues are currently open?
+#### How many issues are currently open?
+* There 67 issues open as of Feb 29, 2020.
 <br>
 
-1. How long do issues stay open?
-Take the five most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average.
+#### How long do issues stay open? Take the five most recently closed issues and look at when each was first reported. Compute the number of days that each was open and take the average.
+* The issues stay open in a range of one day to 5 months.
 <br>
 
-1. Is there active discussion on the issues?
-Read the conversations from some open and some closed issues.
+#### Is there active discussion on the issues? Read the conversations from some open and some closed issues.
+* There are some discussion, but not a lot. They rarely go above 10 replies and most of them are figured out without outside help.
 <br>
 
-1. Are issues tagged as easy, hard, for beginners, etc.?
+#### Are issues tagged as easy, hard, for beginners, etc.?
+* It doesn't appear that they have any tags specifically on difficulty levels.
 <br>
 
-1. How many issues were closed in the past six months?
-<br>
-
-
-1. Is there information about how many people are maintaining the project?
-<br>
-
-1. How many contributors has the project had in the past six months?
+#### How many issues were closed in the past six months?
+* 23 issues were closed in the past six months as of Feb 29 2020.
 <br>
 
 
-1. How many open pull requests are there?
+#### Is there information about how many people are maintaining the project?
+* There are 21 contributors in this project.
 <br>
 
-1. Do pull requests remain un-answered for a long time?
-Look at the closed pull requests to see how long they stayed open.
-Take the five most recently closed ones and look at when each was first reported.
-Compute the number of days that each was open and take the average.
-<br>
-
-1. Is there active discussion on the pull requests?
-Use the same method as you did for the issues.
-<br>
-
-1. How many pull requests were opened within the past six months?
+#### How many contributors has the project had in the past six months?
+* There weren't any additions within the past six months as of Feb 29 2020. It currently has 21 contributors in this project.
 <br>
 
 
-1. When was the last  pull request  merged?
+#### How many open pull requests are there?
+* As of Feb 29 2020, there are 21 open pull requests in this project.
+<br>
+
+#### Do pull requests remain un-answered for a long time? Look at the closed pull requests to see how long they stayed open. Take the five most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.
+* The average is usually one day for an open pull request to remain unanswered. Even with the ones that weren't merged immediately, they usually are the ones with a lot of discussions with contributors critiquing the request before they allow the merge.
+<br>
+
+#### Is there active discussion on the pull requests? Use the same method as you did for the issues.
+* Usually no, as most of the requests are merged on the same day. So it would appear that most of the community are at least experienced with coding. The only discussions are with pull requests that needed a review.
+<br>
+
+#### How many pull requests were opened within the past six months?
+* 17 pull requests were opened within the past six months, as of Feb 29 2020.
+<br>
+
+
+#### When was the last pull request merged?
+* 
 <br>
 
 ---
