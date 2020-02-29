@@ -65,56 +65,56 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?
-<br>
+<br> As of Saturday, February 29th, there have been 6 commits to the master branch over the last week.
 
 1. When was the most recent commit?
-<br>
+<br> The most recent commit was Friday, February 28th, and, for reference, there were 4 commits made on Friday.
 
 1. How many issues are currently open?
-<br>
+<br> As of Saturday, February 29th, there are 240 issues currently open.
 
 1. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
-<br>
+<br> Trying to calculate how long issues stay open on this project suffers from a classic statistics problem: outliers. Looking at the 5 most recent issues, as of Saturday, February 29th, these were open for 1 day, less than a day, less than a day, 4 days, and 6 days. While these suggest an average of (1+0+0+4+6) / 5 =  2.2 days (with some rounding to whole/no days), these may not be very representative issues because two of the issues lasted less than a couple of hours and were quick open and shut issues due to a contributor determination / improper issue. Looking beyond the 5 recent commits, it looks like this number should be raised to somewhere in the 4-6 days range, depending on the complexity of the issue, but some issues are nonetheless resolved quickly.
 
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
-<br>
+<br> There is a moderate amount of conversation on issues, particularly on the more serious and technical matters. 
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
-<br>
+<br> Yes, there is tagging as of difficulty, as with for "FirstTimers" or "Contributors".
 
 1. How many issues were closed in the past six months?
-<br>
+<br> 48 issues were closed in the past six months.
 
 
 1. Is there information about how many people are maintaining the project?
-<br>
+<br> There is a [page](https://teammatesv4.appspot.com/about.jsp) which lists the different groups of contributors to the project, beginning with the core team (though the term *maintainers* is not used).
 
 1. How many contributors has the project had in the past six months?
-<br>
+<br> There have been 4 contributors to master in the past six months.
 
 
 1. How many open pull requests are there?
-<br>
+<br> There are 38 open pull requests.
 
 1. Do pull requests remain un-answered for a long time?
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
-<br>
+<br> Pull requests generally do not remain un-answered for a long time but may take as little as 1 day to resolve (or even 0 days if the pull request is made in error... as with one of these cases) or up to 11 days, with much discussion and changes along the way. Overall, with some rounding to no/whole days, 1 + 1 + 0 + 7 + 11 / 5 = 4 days on average to close a pull request. 
 
 1. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
-<br>
+<br> Yes, there is certainly active discussion on the pull requests and this seems to frequently include helpful screenshots.
 
 1. How many pull requests were opened within the past six months?
-<br>
+<br> 77 pull requests were opened within the last six months.
 
 
 1. When was the last  pull request  merged?
-<br>
+<br> The last pull request was merged on Friday, February 28th, 2020. 
 
 ---
 ### Welcomeness and Community
