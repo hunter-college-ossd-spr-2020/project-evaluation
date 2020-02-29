@@ -145,7 +145,7 @@ violte it?
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 Read the issue conversations.
-* In issue discussions, maintainers always respond helpfully with helpful suggestions and constructive critism.
+* In issue discussions, maintainers always respond helpfully with helpful suggestions and constructive criticism.
 <br>
 
 1. Are people friendly in the issues, discussion forum, and chat?
@@ -157,5 +157,6 @@ Read the issue conversations.
 <br>
 
 ### Summary
-Do you think  this is a project to which it would be possible to contribute in the
+Do you think this is a project to which it would be possible to contribute in the
 course of a semester?
+Yes, this is a project to which it would very much be possible to contribute to during the course of the semester. From what I have seen throughout this evaluation process of the Django project, the community is both very friendly and active. There's a good amount of issues that a contributor can start working on, and they can confidently contribute to the project knowing that there is a high chance that their contributions will be merged and published as pull requests are merged frequently. The Django community is also very helpful in giving suggestions and constructive criticism in issue discussions, which tends to help out the people that are contributing to the project. The only real negative criticism that I can give to the Django project is that the project doesn't seem like such a great project to start contributing to for new up and coming contributors. The project does seem like it's more for experienced contributors that have been part of the Open Source world for a while since the project doesn't have many issues that are made/marked for beginners. Nevertheless, it is possible to contribute to this project over the course of the semester.
