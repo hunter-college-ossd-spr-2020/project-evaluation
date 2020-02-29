@@ -14,7 +14,7 @@
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
-** Django doesn't have a main license such as GNU, instead it has it's own personalized license that simply states that their product is for free of use as long as you don't use/make modifications to their product for money-making purposes.
+**Django doesn't have a main license such as GNU, instead it has it's own personalized license that simply states that their product is for free of use as long as you don't use/make modifications to their product for money-making purposes.**
 <br>
 ---
 
@@ -22,30 +22,30 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
-** The primary programming language of the project is Python.
+**The primary programming language of the project is Python.**
 <br>
 
 2. What is the development environment? For example, is it Gnu C++ on Linux?
-** The development environment simply consists of Python and any text editor. They suggest to use a text editor that is supported by EditorConfig though.
+**The development environment simply consists of Python and any text editor. They suggest to use a text editor that is supported by EditorConfig though.**
 <br>
 
 3. Does the project depend on external additional software modules such as
 database, graphics, web development, or other libraries?
-** No, the project does not depend on any external addional software modules.
+**No, the project does not depend on any external addional software modules.**
 <br>
 
 4. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
-** The code is indeed very simplistic and easy to understand. There are a wide range of comments in each source code file.
+**The code is indeed very simplistic and easy to understand. There are a wide range of comments in each source code file.**
 <br>
 
 5. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).
-** I would say that this project is a medium-sized projct. It may seem very large for a begginer, but in contrast to other Open Source projects, it isn't as big.
+**I would say that this project is a medium-sized projct. It may seem very large for a begginer, but in contrast to other Open Source projects, it isn't as big.**
 <br>
 
 6. Does the repository have tests?
-** Yes, the project has a whole entire subdirectory called and related to tests.
+**Yes, the project has a whole entire subdirectory called and related to tests.**
 <br>
 
 ---
