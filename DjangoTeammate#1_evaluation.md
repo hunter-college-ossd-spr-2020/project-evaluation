@@ -13,7 +13,7 @@
 1. What is the project's license?
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
+different licenses on specific files, but the project will have a main license.  
 **Django doesn't have a main license such as GNU, instead it has it's own personalized license that simply states that their product is for free of use as long as you don't use/make modifications to their product for money-making purposes.**
 <br>
 ---
