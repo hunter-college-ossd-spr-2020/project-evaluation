@@ -41,7 +41,7 @@ a judgment based on your random sample.
 
 5. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).  
-**I would say that this project is a medium-sized projct. It may seem very large for a begginer, but in contrast to other Open Source projects, it isn't as big.**
+**I would say that this project is a medium-sized project. It may seem very large for a beginner, but in contrast to other Open Source projects, it isn't that big.**
 <br>
 
 6. Does the repository have tests?  
@@ -56,7 +56,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
 
 2. Is there documentation about the design?  
-**Yes, there is a matter of fact documentation concerning the design. Some design philosophies include "don't repeat youself" and "explicit is better than implicit."**
+**Yes, as a matter of fact there is documentation concerning the design. Some design philosophies of the Django project include "don't repeat youself" and "explicit is better than implicit."**
 <br>
 
 
@@ -97,9 +97,8 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
 
 9. How many contributors has the project had in the past six months?  
-**In the past six months, the project has had 23 contributors.**
+**In the past six months, the project has had 23 active contributors.**
 <br>
-
 
 10. How many open pull requests are there?  
 **There are currently 238 pull requests opened.**
@@ -120,7 +119,6 @@ Use the same method as you did for the issues.
 13. How many pull requests were opened within the past six months?  
 **There were 765 pull requests open within the past six months.**
 <br>
-
 
 14. When was the last pull request merged?  
 **The last pull request was merged 1 hour ago.**
@@ -146,7 +144,7 @@ Read the issue conversations.
 <br>
 
 4. Are people friendly in the issues, discussion forum, and chat?  
-**Yes, all throughout the Django project such as in issues, discussion forums, and any other chat channels, everyone is very friendly to another.**
+**Yes, all throughout the Django project such as in issues, discussion forums, and any other chat channels, everyone is very friendly to one another.**
 <br>
 
 5. Do maintainers thank people for their contributions?  
