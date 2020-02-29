@@ -11,7 +11,7 @@
 
 ### License
 
-1. What is the project's license?
+1. What is the project's license?<br>
 The project's license is MIT.
 
 ---
