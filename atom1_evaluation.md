@@ -13,7 +13,7 @@
 
 1. What is the project's license?
 The project's license is MIT.
-<br>
+
 ---
 
 ### Code Base
@@ -70,64 +70,46 @@ Yes, there is documentation on how they approached creating Atom in the flight-m
 
 1. How many commits have been made in the past week?
 There were no commits made in the past week.
-<br>
 
 1. When was the most recent commit?
 The latest commit was Feb 10,2020.
-<br>
 
 1. How many issues are currently open?
 480 issues are currently open.
-<br>
 
 1. How long do issues stay open?
 Issues stay open for around 8-10 hours.
-<br>
 
 1. Is there active discussion on the issues?
-There isn't active discussion on the issues. 
-
-<br>
+There isn't active discussion on the issues.
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
 There are issues that are tagged as work in progress, dependencies etc.
-<br>
 
 1. How many issues were closed in the past six months?
 There were a total of 232 issues that were closed within the last 6 months
-<br>
-
 
 1. Is there information about how many people are maintaining the project?
 As far as I know and researched, there is no information on how many people are maintaining the project.
-<br>
 
 1. How many contributors has the project had in the past six months?
 The project had a total of 94 contributos in the last 6 months.
-<br>
-
 
 1. How many open pull requests are there?
 There are a total of 130 open pull requests.
-<br>
 
 1. Do pull requests remain un-answered for a long time?
 Pull requests do remain open for a long time. There have been pull requests have have been opened for as long as a month and do not close.
 Compute the number of days that each was open and take the average.
-<br>
 
 1. Is there active discussion on the pull requests?
 There isn't a lof of active discussion on the pull requests. The recent issue was opened 3 days ago and hasn't been closed and no converdation is discussed during that time.
-<br>
 
 1. How many pull requests were opened within the past six months?
 There were a total of 247 pull requests that were opened within the last 6 months.
-<br>
-
 
 1. When was the last  pull request  merged?
 The last pull request was merged 17 days ago.
-<br>
 
 ---
 ### Welcomeness and Community
