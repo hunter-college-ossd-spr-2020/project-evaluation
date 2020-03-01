@@ -158,5 +158,15 @@ Maintainers do thank people people for their contributions.
 Do you think  this is a project to which it would be possible to contribute in the course of a semester?
 This is a project that would be worth contributing.
  
-
+### Experience trying to run Atom from source code on my machine.
+I was not successful in trying to build Atom from the source code on my machine. 
+I followed the instructions from this link: https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/?fbclid=IwAR1ZR-Em67SwInb-lAtCR9D1qnt6udR9StUaIUtOr6806a-aoASEtIvw2h0#platform-windows
+And when I try running the commands instructed in the manual, I get errors saying that the command doesn't exist. 
+It seems it is much harder to build Atom on a windows, because when I examine the instructions for Mac, it looks much shorter and doesn't require that Node.js and Python be installed.
+There are actually a lot of requirements for windows before I can build Atom.
+I need:
+1. Node.js
+2. Python
+3. 7zip
+4. C++ build tools: Visual C++, Visual studio 2013 update 5, Visual studio 2015.
 
