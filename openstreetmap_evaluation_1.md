@@ -172,4 +172,6 @@ course of a semester?
 
 
 
-
+Comments on Installation
+---
+- **I tried to follow the installation instructions. In order to test this project, I need to install 9 libraries. I tried to download couple libraries that was listed in README, and I was stuck because for some libraries I can't find the correct download pages. After skimming through the rest of the steps, it seems very complicated and confused. Therefore, I didn't get to install or run it.**
