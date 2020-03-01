@@ -70,55 +70,69 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?
+**During February 20th to February 27, there were 97 commits.**
 <br>
 
 2. When was the most recent commit?
+**The most recent commit occurred an hour ago, which was on February 27 at 9 a.m. EST.**
 <br>
 
 3. How many issues are currently open?
+**There are 1,019 issues currently open.**
 <br>
 
 4. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
+**The average was 2.4 days.**
 <br>
 
 5. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
+**Yes, there are discussion among maintainers, contributors, and the zulipbot. At times, the zulipbot seems to facilitate the flow of the project by informing contributors on relevant information.**
 <br>
 
 6. Are issues tagged as easy, hard, for beginners, etc.?
+**There is only a tag labeled "difficult".**
 <br>
 
 7. How many issues were closed in the past six months?
+**Approximately 175 issues were closed in the past six months.**
 <br>
 
 
 8. Is there information about how many people are maintaining the project?
+**No, there is no information on the number of maintainers.**
 <br>
 
 9. How many contributors has the project had in the past six months?
+**There has been approximately 26 contributors in the past six months.**
 <br>
 
 
 10. How many open pull requests are there?
+**There are 433 pull requests.**
 <br>
 
 11. Do pull requests remain un-answered for a long time?
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.
+**Most pull requests were answered within 24 hours, with an average of 2.4 hours.**
 <br>
 
 12. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
+**Yes, it is common to see more than 2 comments per pull request.**
 <br>
 
 13. How many pull requests were opened within the past six months?
+**433 pull requests were opened within the past six months.**
 <br>
 
 
 14. When was the last  pull request  merged?
+**The last pull request occurred an hour ago on March 1st at 4:24 p.m. EST.**
 <br>
 
 ---
@@ -149,5 +163,9 @@ Read the issue conversations.
 <br>
 
 ### Summary
-Do you think  this is a project to which it would be possible to contribute in the
+Do you think this is a project to which it would be possible to contribute in the
 course of a semester?
+**Yes, I do believe this it's possible to contribute to Zulip during the course of this semester. Zulip has a chat channel where new contributors can talk directly to more experienced contributors. Furthermore, Zulip has an extensive documentation that allows new contributors to be caught up to speed on how Zulip works. In discussions regarding pull requests and issues, maintainers are very active and always willing to help. It's worth mentioning that Zulip has a bot that directs contributors to relevant information in an efficient manner.**
+
+### Installation
+**The project took a little over an hour to install thanks to Zulip's "Development environment installation" documentation. The documentation goes step by step starting with requirements and prerequisites. The documentation provides different installation procedures depending on your operating system. After each step is completed the documentation lets you know what a successful output looks on your terminal and on your browser. Once you determine you were successful in each step, the documentation directs you to your new step. Most steps included issues you may run into and how to fix those issues.**
