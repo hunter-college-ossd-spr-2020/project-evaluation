@@ -119,31 +119,32 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 #### When was the last pull request merged?
-* 
+* As of Feb 29 2020, the last pull request merged on December 12, 2019.
 <br>
 
 ---
 ### Welcomeness and Community
 
-1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
-Look through it and see if it is clear and thorough.
+#### Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough.
+* There is a CONTRIBUTING document and it is very clear on what they expect from contributors and how they can contribute. However, the document seems to expect some experience from contributors with the code they listed.
 <br>
 
-1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
-violte it?
+#### Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it?
+* There doesn't appear to be a CODE OF CONDUCT document.
 <br>
 
-1. Do the maintainers respond helpfully to questions in issues?
-Are responses generally constructive?
-Read the issue conversations.
+#### Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.
+* The maintainers respond helpfully and contructively with the issues. 
 <br>
 
-1. Are people friendly in the issues, discussion forum, and chat?
+#### Are people friendly in the issues, discussion forum, and chat?
+* In most of the discussions, the people are friendly and courteous.
 <br>
 
-1. Do maintainers thank people for their contributions?
+#### Do maintainers thank people for their contributions?
+* There isn't a lot of discussion within the repo unless it's a rare thread with more than one reply. And even then the discussions are more straight to the point than worrying about courtesy. So no, maintainers don't spend time on the discussion posts to thank people for the contribution.
 <br>
 
 ### Summary
-Do you think  this is a project to which it would be possible to contribute in the
-course of a semester?
+#### Do you think  this is a project to which it would be possible to contribute in the course of a semester?
+* I personally feel that people in this course, who don't have a lot of experience in coding, would feel more comfortable contributing to this project near the end of the course or at least when they know more coding. The project seems that expects its contributors to be experienced in coding.
