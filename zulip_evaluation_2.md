@@ -95,7 +95,7 @@ different licenses on specific files, but the project will have a main license.
 13. How many pull requests were opened within the past six months? **433 pull requests were opened within the past six months**
 <br>
 
-14. When was the last  pull request  merged? **The last pull request was merged 6 hours ago (of this post)**
+14. When was the last  pull request  merged? **The last pull request was merged 6 hours ago (from this post)**
 <br>
 
 ---
