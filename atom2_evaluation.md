@@ -35,7 +35,7 @@ The project does not depend on any external resources.
  
 4. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
-The code si easy to understand since there is a good amount of documentation in the source code.
+The code is easy to understand since there is a good amount of documentation in the source code.
 <br>
  
 5. Is this a big project? If you can, find out about how many lines of code
@@ -53,7 +53,7 @@ THe repository does have 2 files named test and test.cmd
  
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
-Yes, there is clear documentation. There is a large user manual how why to use Atom, how to get started.
+Yes, there is clear documentation. There is a large user manual on how and why to use Atom, and how to get started.
 <br>
  
  
@@ -112,12 +112,12 @@ There are a total of 130 open pull requests.
 <br>
  
 11. Do pull requests remain un-answered for a long time?
-Pull requests do remain open for a long time. There have been pull requests have have been opened for as long as a month and do not close.
 Compute the number of days that each was open and take the average.
+Pull requests do remain open for a long time. There have been pull requests have have been opened for as long as a month and do not close.
 <br>
  
 12. Is there active discussion on the pull requests?
-There isn't a lof of active discussion on the pull requests. The recent issue was opened 3 days ago and hasn't been closed and no converdation is discussed during that time.
+There isn't a lof of active discussion on the pull requests. The recent issue was opened 3 days ago and hasn't been closed and no conversation has been discussed during that time.
 <br>
  
 13. How many pull requests were opened within the past six months?
@@ -151,7 +151,7 @@ People are friendly in the issues.
 <br>
  
 5. Do maintainers thank people for their contributions?
-Maintainers do that people for their contributions.
+Maintainers do thank people people for their contributions.
 <br>
  
 ### Summary
