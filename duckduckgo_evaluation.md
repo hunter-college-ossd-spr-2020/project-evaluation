@@ -19,7 +19,8 @@
 ### Code Base
 
 
-1. What is the primary programming language in the project?
+#### What is the primary programming language in the project?
+* The primary programming languages in the project are JSON and Javascript.
 <br>
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
@@ -30,8 +31,8 @@ Are there instructions for how to download, build, and install?
 * The project is a browser extension, so it just needs a compatible browser. As of now, it's only compatible with Chrome and Firefox.
 <br>
 
-1. Is the code easy to understand? Browse some source code files and make
-a judgment based on your random sample.
+#### Is the code easy to understand? Browse some source code files and make a judgment based on your random sample.
+* The code looks clear enough for contributors.
 <br>
 
 1. Is this a big project? If you can, find out about how many lines of code
