@@ -97,7 +97,10 @@ different licenses on specific files, but the project will have a main license.
 
 14. When was the last  pull request  merged? **The last pull request was merged 6 hours ago (of this post)**
 <br>
+
 ---
+
+
 ### Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough. **The [CONTRIBUTING](https://zulip.readthedocs.io/en/latest/overview/contributing.html) document is long and thorough. It goes through how to familiarize yourself with the codebase, choose an issue to work on, solve that issue and how to become a *core developer*. It is new-comer friendly, and encourages members new to the community to install and use Zulip and discuss their first impressions about the product.**
@@ -117,4 +120,7 @@ different licenses on specific files, but the project will have a main license.
 
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
-course of a semester?
+course of a semester? **I think that this project is new-comer friendly and possible to contribute to in the course of a semester. It provides people interested in contributing to the project with a thororugh and clear outline of how to contribute. The community promotes positive and enthusiastic behavior, and the project's GitHub page and *zulip chat* are very active (with communications occuring within minutes of this post). Also the project is interesting and provides new-comers a myriad of ways to get started**
+
+### Install
+
