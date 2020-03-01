@@ -145,4 +145,41 @@ course of a semester?
 Teammates does appear to be a project that a student could contribute to in the course of a semester, **provided they are already familiar with Java or web development**. The continuing activity of the project, installation and contribution guides, abundance of documentation, labeling of issues by difficulty, and moderate level of discussion on Github, seem to together offer ample opportunities for contributions. That said, installation alone may prove to be a headache: see below for more.
 
 ### Personal Installation Experience:
-I followed the [installation guide](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md) and while I had no trouble following the steps for setting up the development environment, I ran into trouble immediately after that stage... The first set of instructions pertains to just downloading the files and is very helpful for a contributor who is new to Git. Step 2 concerns language support. Python is not an issue as Python 2.7 ships with Ubuntu and MacOS; instead the hardest part here is downloading JDK (Java Development Kit) 1.8, as Oracle requires an account to be made before downloading and, for some reason, "Company Name" is a required field?! I did not download the front-end tools as I would not work on that aspect of the project given the choice and the same applies to my working through step 3, where the balance of the steps went down without issue. After these few short steps, you are ready to begin development. There is a [development](https://github.com/TEAMMATES/teammates/blob/master/docs/development.md) document on where to go next. Here I found instructions on starting the back-end dev server and attempted to do so as a final test of the installation process and was unfortunately greeted with a wall of errors related to Google Cloud tools. While there is a [troubleshooting guide](https://github.com/TEAMMATES/teammates/blob/master/docs/troubleshooting-guide.md) for developers, and the guide does suggest going back to the PATH variable for the Google Cloud SDK mentioned in the installation guide, it assumes you installed the SDK and this only points to a serious flaw in the installation guide. The Google Cloud SDK is only mentioned in passing in the installation guide, with a note that you can *"choose"* to set a different path for the SDK if you want, but it does not even clearly state that you must install another SDK. **Why the guide would specify something as rudimentary as installing Python but neglect to specify installing an SDK, without which you are left with a nausea-inducing flood of errors warning of illegal actions, is beyond me.**
+I followed the [installation guide](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md) and while I had no trouble following the steps for setting up the development environment, I ran into trouble immediately after that stage... The first set of instructions pertains to just downloading the files and is very helpful for a contributor who is new to Git. Step 2 concerns language support. Python is not an issue as Python 2.7 ships with Ubuntu and MacOS; instead the hardest part here is downloading JDK (Java Development Kit) 1.8, as Oracle requires an account to be made before downloading and, for some reason, "Company Name" is a required field?! I did not download the front-end tools as I would not work on that aspect of the project given the choice and the same applies to my working through step 3, where the balance of the steps went down without issue. After these few short steps, you are ready to begin development. There is a [development](https://github.com/TEAMMATES/teammates/blob/master/docs/development.md) document on where to go next. Here I found instructions on starting the back-end dev server and attempted to do so as a final test of the installation process and was unfortunately greeted with a wall of errors (see below) related to Google Cloud tools. While there is a [troubleshooting guide](https://github.com/TEAMMATES/teammates/blob/master/docs/troubleshooting-guide.md) for developers, there is no mention of this particular nausea-inducing flood of errors warning of illegal actions. With no knowledge in this domain, I was unable to pursue the matter further. I should note that it was in the course of investigating this matter that I noticed that, without warning by the installation or development guides, attempting to run the back-end server will install a number of tools, such as the Google Cloud SDK, and the first item in the troubleshooting guide is more or less a "gotcha" that refers back to where the installation guide mentions "optionally" choosing a Google Cloud SDK path in passing. This note is the only time that this SDK is even discussed in the installation guide. If you run into the same errors as me and also do not see the Google Cloud install fly by in your shell, you may come to the same erroneous initial conclusion - that these errors come from not even having the SDK installed - as I did.
+
+
+#### Error Output: 
+```
+> Task :appengineStart
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.google.appengine.tools.development.StreamHandlerFactory (file:/Users/danielmallia/Library/Application%20Support/google-cloud-tools-java/managed-cloud-sdk/LATEST/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/lib/impl/appengine-local-runtime.jar) to method java.net.URL.getURLStreamHandler(java.lang.String)
+WARNING: Please consider reporting this to the maintainers of com.google.appengine.tools.development.StreamHandlerFactory
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Feb 29, 2020 7:38:34 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFO: Overwriting system property key 'java.util.logging.config.file', value '/Users/danielmallia/Library/Application Support/google-cloud-tools-java/managed-cloud-sdk/LATEST/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/config/sdk/logging.properties' with value 'WEB-INF/logging.properties' from '/Users/danielmallia/Documents/Hunter College/Spring 2020/CSCI39586 Open Source/Repos/teammates/build/exploded-teammates/WEB-INF/appengine-web.xml'
+java.lang.NullPointerException
+        at java.base/java.util.concurrent.ConcurrentHashMap.putVal(ConcurrentHashMap.java:1011)
+        at java.base/java.util.concurrent.ConcurrentHashMap.put(ConcurrentHashMap.java:1006)
+        at java.base/java.util.Properties.put(Properties.java:1316)
+        at java.base/java.util.Collections$CheckedMap.put(Collections.java:3636)
+        at com.google.appengine.tools.development.SharedMain.setTimeZone(SharedMain.java:183)
+        at com.google.appengine.tools.development.SharedMain.postServerActions(SharedMain.java:152)
+        at com.google.appengine.tools.development.DevAppServerMain$StartAction.apply(DevAppServerMain.java:398)
+        at com.google.appengine.tools.util.Parser$ParseResult.applyArgs(Parser.java:45)
+        at com.google.appengine.tools.development.DevAppServerMain.run(DevAppServerMain.java:257)
+        at com.google.appengine.tools.development.DevAppServerMain.main(DevAppServerMain.java:248)
+
+> Task :appengineStart FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':appengineStart'.
+> com.google.cloud.tools.appengine.AppEngineException: com.google.cloud.tools.appengine.operations.cloudsdk.process.ProcessHandlerException: Timed out waiting for the success message: '.*(Dev App Server is now running|INFO:oejs\.Server:main: Started).*'
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+```
