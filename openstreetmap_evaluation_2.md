@@ -27,11 +27,14 @@
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 
-   For macOS you can download it in [Homebrew](https://brew.sh/)
-   For windows there is unofficial build available from [Appveyor](https://ci.appveyor.com/project/openstreetmap/osm2pgsql/history) or [OpenStreetMap Dev server](https://lonvia.dev.openstreetmap.org/osm2pgsql-winbuild/releases/)
-   Most Linux distributions are already include osm2pgsql
+   For macOS you can download it in [Homebrew](https://brew.sh/).
+   
+   For windows there is unofficial build available from [Appveyor](https://ci.appveyor.com/project/openstreetmap/osm2pgsql/history) or [OpenStreetMap Dev server](https://lonvia.dev.openstreetmap.org/osm2pgsql-winbuild/releases/).
+   
+   Most Linux distributions are already include osm2pgsql.
+   
    There are [Installing](https://github.com/openstreetmap/osm2pgsql#installing) and [Building](https://github.com/openstreetmap/osm2pgsql#building) instructions in the README file.
-   The installation process is very complicated, I was unable to install into my pc.
+   The installation process is very complicated, I was unable to install it into my pc.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
@@ -98,7 +101,6 @@ Compute the number of days that each was open and take the average.
 Read the conversations from some open and some closed issues.
 
    Yes, the people in the community reply very often with detailed comments on open issues. 
-<br>
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
    
@@ -107,19 +109,15 @@ Read the conversations from some open and some closed issues.
 1. How many issues were closed in the past six months?
    
    There are 25 issues that were closed in the past six months.
-<br>
-
 
 1. Is there information about how many people are maintaining the project?
    
    Only three people currently maintain the project. 
-<br>
-
+   
 1. How many contributors has the project had in the past six months?
    
    There are 7 contributors who have the project in the past six months, including one core contributor, one non-core contributor, and 5 new contributors.
-
-
+   
 1. How many open pull requests are there?
    
    There are only two open pull requests remaining.
