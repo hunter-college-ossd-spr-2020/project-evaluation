@@ -15,7 +15,7 @@
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
-**This project has an Apache license.**
+**This project has an Apache-2.0 license.**
 <br>
 
 ---
@@ -74,10 +74,10 @@ different licenses on specific files, but the project will have a main license.
 6. Are issues tagged as easy, hard, for beginners, etc.? **There is a difficulty tag called *difficult*, but there are no tags categoriing work for beginners nor easy.**
 <br>
 
-7. How many issues were closed in the past six months? **~175 issues were closed in the past six months. **
+7. How many issues were closed in the past six months? **There are ~175 issues were closed in the past six months.**
 <br>
 
-8. Is there information about how many people are maintaining the project? **No, not specifically. **
+8. Is there information about how many people are maintaining the project? **No there is no specific mention about the number of core maintainers, however, the project does cite 557 members that have contributed directly toward the GitHub repo (out of 26.799 cited contributors).**
 <br>
 
 9.  How many contributors has the project had in the past six months? **~26 distinct users have contributed to this project within the past 6 months (according to Github's Contributors' Insights section)**
@@ -100,7 +100,7 @@ different licenses on specific files, but the project will have a main license.
 ---
 ### Welcomeness and Community
 
-1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough. **The [Contributing](https://zulip.readthedocs.io/en/latest/overview/contributing.html) document is long and thorough. It goes through how to familiarize yourself with the codebase, choose an issue to work on, solve that issue and how to become a *core developer*. It is new-comer friendly, and encourages members new to the community to install and use Zulip and discuss their first impressions about the product.**
+1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough. **The [CONTRIBUTING](https://zulip.readthedocs.io/en/latest/overview/contributing.html) document is long and thorough. It goes through how to familiarize yourself with the codebase, choose an issue to work on, solve that issue and how to become a *core developer*. It is new-comer friendly, and encourages members new to the community to install and use Zulip and discuss their first impressions about the product.**
 <br>
 
 2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violte it? **Yes, there is a well-thought out [CODE_OF_CONDUCT](https://zulip.readthedocs.io/en/latest/code-of-conduct.html) section on the company's website. It's format is similar to Mozilla's Code of Conduct Page. It clearly outlines expected behavior, unacceptable behavior, ane reporting and enforcing unacceptable behavior.**
