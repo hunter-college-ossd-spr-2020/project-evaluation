@@ -108,7 +108,7 @@ different licenses on specific files, but the project will have a main license.
 
 2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violte it? **Yes, there is a well-thought out [CODE_OF_CONDUCT](https://zulip.readthedocs.io/en/latest/code-of-conduct.html) section on the company's website. It's format is similar to Mozilla's Code of Conduct Page. It clearly outlines expected behavior, unacceptable behavior, ane reporting and enforcing unacceptable behavior.**
 <br>
-
+ 
 3. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations. **The most recent closed issue had a variety of members communicating in a thoughful and professional manner. While the conversation resulted in the *[abandonment](https://github.com/zulip/zulip/issues/14049)* of the issue, the community was helpful.**
 <br>
 
@@ -118,9 +118,21 @@ different licenses on specific files, but the project will have a main license.
 5. Do maintainers thank people for their contributions? **While most communications within opened and close issues and pull requests are conversations between contributors and the *[zulip bot](https://github.com/zulipbot)*, there are members of the team that thank the community for bringing certain issues to light and for solving certain bugs.**
 <br>
 
+---
+
+
+
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
-course of a semester? **I think that this project is new-comer friendly and possible to contribute to in the course of a semester. It provides people interested in contributing to the project with a thororugh and clear outline of how to contribute. The community promotes positive and enthusiastic behavior, and the project's GitHub page and *zulip chat* are very active (with communications occuring within minutes of this post). Also the project is interesting and provides new-comers a myriad of ways to get started**
+course of a semester? 
+**Yes, I believe that it is possible to contribute to this project within the course of a semester. Not only is the project well-documented but their developer chat channel is also new-comer friendly. It provides people interested in contributing to the project with a thororugh and clear outline of how to contribute. The community promotes positivity and this is reflected in the project's pull request and issue conversations. The project's GitHub page and *zulip chat* are very active (with communications occuring within minutes of this post). This level activity in the project makes it possible to claim an issue to work on today with almost immediate feedback. Also the project is interesting and provides new-comers a myriad of ways to get started (documenting, making bug requests, responding to issues and pull requests,solving issues, adding features...)**
 
-### Install
+--- 
+
+
+### Installation
+
+**Installing this project and setting up its development environment took over an hour. I followed this guide for my computer:  
+[Development Environment (for first-timers)](https://zulip.readthedocs.io/en/stable/development/setup-vagrant.html). The guide was super helpful and straightforward. It had a useful troubleshooting section for installation issues and development environment issues. It was cool to connect the information collected above to a tangible product. While the project didn't really capture my attention at first, seeing the product in action definetly piqued my curiosity in contributing to it.** 
+
 
