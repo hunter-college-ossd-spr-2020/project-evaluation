@@ -29,7 +29,8 @@ Are there instructions for how to download, build, and install?
   - For macOS you can download it in [Homebrew](https://brew.sh/)
   - For windows there is unofficial build available from [Appveyor](https://ci.appveyor.com/project/openstreetmap/osm2pgsql/history) or [OpenStreetMap Dev server](https://lonvia.dev.openstreetmap.org/osm2pgsql-winbuild/releases/)
   - Most Linux distributions are already include osm2pgsql
-  - There are [Installing](https://github.com/openstreetmap/osm2pgsql#installing) and [Building](https://github.com/openstreetmap/osm2pgsql#building) instructions in the README file
+  - There are [Installing](https://github.com/openstreetmap/osm2pgsql#installing) and [Building](https://github.com/openstreetmap/osm2pgsql#building) instructions in the README file.
+  - The installation process is very complicated, I was unable to install into my pc.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
