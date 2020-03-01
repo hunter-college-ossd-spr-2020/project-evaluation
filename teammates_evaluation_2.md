@@ -28,7 +28,7 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
-<br> The development environment for TEAMMATES consists of Git, the Java Development Kit, the Gradle Build Tool, and Python 2.7 for any kind of work on the project, and Node.js and Angular CLI (only recommended)  There is a nice guide for setting up this "TEAMMATES development environment" [here](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md).
+<br> The development environment for TEAMMATES consists of Git, the Java Development Kit, the Gradle Build Tool, and Python 2.7 for any kind of work on the project, and Node.js and Angular CLI (only recommended).  There is a guide for setting up this "TEAMMATES development environment" [here](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md).
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
