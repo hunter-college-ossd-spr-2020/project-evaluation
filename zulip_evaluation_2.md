@@ -22,18 +22,22 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?What is the development environment? For example, is it Gnu C++ on Linux?Are there instructions for how to download, build, and install?
+   
 2. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries? Is the code easy to understand? Browse some source code files and make a judgment based on your random sample.
+
+
 3. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/).
+
+
 4. Does the repository have tests?
+
+
 ---
 
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?
-<br>
 
-1. Is there documentation about the design?
-<br>
-
+2. Is there documentation about the design?
 
 ---
 
@@ -82,11 +86,15 @@ different licenses on specific files, but the project will have a main license.
 ---
 ### Welcomeness and Community
 
-1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough.
-2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violte it?
-3. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.
-4. Are people friendly in the issues, discussion forum, and chat?
-5. Do maintainers thank people for their contributions?
+1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough. **The [Contributing](https://zulip.readthedocs.io/en/latest/overview/contributing.html) document is long and thorough. It goes through how to familiarize yourself with the codebase, choose an issue to work on, solve that issue and how to become a *core developer*. It is new-comer friendly, and encourages members new to the community to install and use Zulip and discuss their first impressions about the product.**
+
+2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violte it? **Yes, there is a well-thought out [CODE_OF_CONDUCT](https://zulip.readthedocs.io/en/latest/code-of-conduct.html) section on the company's website. It's format is similar to Mozilla's Code of Conduct Page. It clearly outlines expected behavior, unacceptable behavior, ane reporting and enforcing unacceptable behavior.**
+   
+3. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations. **The most recent closed issue had a variety of members communicating in a thoughful and professional manner. While the conversation resulted in the *[abandonment](https://github.com/zulip/zulip/issues/14049)* of the issue, the community was helpful.**
+   
+4. Are people friendly in the issues, discussion forum, and chat? **Yes, the community appears to be super friendly and outgoing on the product's github page and on their [zulip chat](https://chat.zulip.org/login/).**
+   
+5. Do maintainers thank people for their contributions? **While most communications within opened and close issues and pull requests are conversations between contributors and the *[zulip bot](https://github.com/zulipbot)*, there are members of the team that thank the community for bringing certain issues to light and for solving certain bugs.**
 
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
