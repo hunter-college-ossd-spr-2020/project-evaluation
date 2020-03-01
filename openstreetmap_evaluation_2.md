@@ -1,4 +1,4 @@
-**Project Name**: [OpenStreetMapl](https://wiki.openstreetmap.org/wiki/Main_Page)  [OpenStreetMap data to PostgreSQL converter](https://github.com/openstreetmap/osm2pgsql)
+**Project Name**: [OpenStreetMapl](https://wiki.openstreetmap.org/wiki/Main_Page), [OpenStreetMap data to PostgreSQL converter](https://github.com/openstreetmap/osm2pgsql)
 
 ---
 
