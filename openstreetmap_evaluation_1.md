@@ -1,4 +1,4 @@
-**Project Name**: [OpenStreetMapl(]https://wiki.openstreetmap.org/wiki/Main_Page)  [OpenStreetMap data to PostgreSQL converter](https://github.com/openstreetmap/osm2pgsql)
+**Project Name**: [OpenStreetMapl](https://wiki.openstreetmap.org/wiki/Main_Page) -- [OpenStreetMap data to PostgreSQL converter](https://github.com/openstreetmap/osm2pgsql)
 
 ---
 
@@ -31,7 +31,7 @@ Are there instructions for how to download, build, and install?
 
 - **For windows there is unofficial build available from [Appveyor](https://ci.appveyor.com/project/openstreetmap/osm2pgsql/history) or [OpenStreetMap Dev server](https://lonvia.dev.openstreetmap.org/osm2pgsql-winbuild/releases/)**
 - **Most Linux distributions are already include osm2pgsql**
-- **There are [Installing](https://github.com/openstreetmap/osm2pgsql#installing) and [Building](https://github.com/openstreetmap/osm2pgsql#building) instructions in the README file
+- **There are [Installing](https://github.com/openstreetmap/osm2pgsql#installing) and [Building](https://github.com/openstreetmap/osm2pgsql#building) instructions in the README file**
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
@@ -79,7 +79,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 1. When was the most recent commit?
 
-- **The most recent commit was made on February 28, 2020. 
+- **The most recent commit was made on February 28, 2020.**
 
 1. How many issues are currently open?
 
@@ -94,7 +94,7 @@ Compute the number of days that each was open and take the average.
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 
-- ** Yes, the people in the community reply quickly with links and suggestions.**
+- **Yes, the people in the community reply quickly with links and suggestions.**
 
 1. Are issues tagged as easy, hard, for beginners, etc.?
 
@@ -107,7 +107,7 @@ Read the conversations from some open and some closed issues.
 
 1. Is there information about how many people are maintaining the project?
 
-- **Only three people currently maintain the project. 
+- **Only three people currently maintain the project.**
 
 1. How many contributors has the project had in the past six months?
 
@@ -135,7 +135,7 @@ Use the same method as you did for the issues.
 
 1. When was the last  pull request  merged?
 
-- **10 hours ago on 2/28/2020 **
+- **10 hours ago on 2/28/2020**
 
 ---
 ### Welcomeness and Community
@@ -143,7 +143,7 @@ Use the same method as you did for the issues.
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough.
 
-- **There’s a [CONTRIBUTING document](https://github.com/openstreetmap/osm2pgsql/blob/master/CONTRIBUTING.md). It provides the link for code style, procedures to test the project, steps on how to fork and pull, and etc. It’s very clear for a new contributor to follow.
+- **There’s a [CONTRIBUTING document](https://github.com/openstreetmap/osm2pgsql/blob/master/CONTRIBUTING.md). It provides the link for code style, procedures to test the project, steps on how to fork and pull, and etc. It’s very clear for a new contributor to follow.**
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it?
@@ -154,7 +154,7 @@ violate it?
 Are responses generally constructive?
 Read the issue conversations.
 
-- ** Most of the conversation is short, and there’s not that many of follow up questions. You can’t really tell if the comments are helpful or not because the conversation doesn’t continue. Whoever opened the issue didn’t reply back.**
+- **Most of the conversation is short, and there’s not that many of follow up questions. You can’t really tell if the comments are helpful or not because the conversation doesn’t continue. Whoever opened the issue didn’t reply back.**
 
 
 1. Are people friendly in the issues, discussion forum, and chat?
