@@ -19,16 +19,12 @@
 ### Code Base
 
 1. What is the primary programming language in the project?What is the development environment? For example, is it Gnu C++ on Linux?Are there instructions for how to download, build, and install? 
-    
     **The primary language is python. The recommended development environment is Vagrant. Zulip has instructions for installing Vagrant and information on how to use it.**
 1. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries? Is the code easy to understand? Browse some source code files and make a judgment based on your random sample. 
-    
     **The project depends on Django and Tornado. Yes, the code is clear and easy to follow.** 
 1. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/).
-    
     **Yes, it is a big project with 249K lines of code.**
 1. Does the repository have tests?
-    
     **Yes, the tests are under a file named tools.** 
 
 ---
