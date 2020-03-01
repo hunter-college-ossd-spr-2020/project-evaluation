@@ -121,23 +121,28 @@ Use the same method as you did for the issues.
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough.
-<br>
+<br> Yes there is a very comprehensive, readable and helpful "[Contributor Orientation Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md)".
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violte it?
-<br>
+<br> Yes, there is a [code of conduct](https://github.com/TEAMMATES/teammates/blob/master/.github/CODE_OF_CONDUCT.md) and it does state the following: "All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances." It also states the responsibility of maintainers to adhere to and enforce this code.
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 Read the issue conversations.
-<br>
+<br> Maintainers respond helpfully and constructively to questions and discussions in some issues: see [here](https://github.com/TEAMMATES/teammates/issues/9940) for a nice example. However, maintainers and contributors do seem to have to remind many potential contributors to follow issue guidelines and proper setup/installation procedures, deflect suggestions of questionable value (see [here](https://github.com/TEAMMATES/teammates/issues/9540) for an example), and are frequently bombarded with requests from people who want to contribute but don't always seem to follow up. This does appear to limit the responses of maintainers - perhaps due to burnout. 
 
 1. Are people friendly in the issues, discussion forum, and chat?
-<br>
+<br> Per the previous response, the tone of the community is generally polite and friendly, but can also be *firm* while remaining professional. Overall it does appear to be a friendly project community.
 
 1. Do maintainers thank people for their contributions?
-<br>
+<br> Maintainers do seem to be openly appreciative of contributions but often the expression of this is from a quick "LGTM" or "Looks Good To Me". See [here](https://github.com/TEAMMATES/teammates/pull/9941) for an example.
 
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
+
+Teammates does appear to be a project that a student could contribute to in the course of a semester. The continuing activity of the project, installation and contribution guides, abundance of documentation, labeling of issues by difficulty, and moderate level of discussion on Github, seem to together offer ample opportunities for contributions.
+
+### Personal Installation Experience:
+I followed the [installation guide](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md) and while I had no trouble following the steps for setting up the development environment, I ran into trouble immediately after that stage... The first set of instructions pertains to just downloading the files and is very helpful for a contributor who is new to Git. Step 2 concerns language support. Python is not an issue as Python 2.7 ships with Ubuntu and MacOS; instead the hardest part here is downloading JDK (Java Development Kit) 1.8, as Oracle requires an account to be made before downloading and, for some reason, "Company Name" is a required field?! I did not download the front-end tools as I would not work on that aspect of the project given the choice and the same applies to my working through step 3, where the balance of the steps went down without issue. After these few short steps, you are ready to begin development. There is a [development](https://github.com/TEAMMATES/teammates/blob/master/docs/development.md) document on where to go next. Here I found instructions on starting the back-end dev server and attempted to do so as a final test of the installation process and was unfortunately greeted with a wall of errors related to Google Cloud tools. While there is a [troubleshooting guide](https://github.com/TEAMMATES/teammates/blob/master/docs/troubleshooting-guide.md) for developers, and the guide does suggest going back to the PATH variable for the Google Cloud SDK mentioned in the installation guide, it assumes you installed the SDK and this only points to a serious flaw in the installation guide. The Google Cloud SDK is only mentioned in passing in the installation guide, with a note that you can *"choose"* to set a different path for the SDK if you want, but it does not even clearly state that you must install another SDK. **Why the guide would specify something as rudimentary as installing Python but neglect to specify installing an SDK, without which you are left with a nausea-inducing flood of errors warning of illegal actions, is beyond me.**
