@@ -36,7 +36,7 @@ different licenses on specific files, but the project will have a main license.
 
 4. Does the repository have tests?
 **Yes, the tests are under a file named tools.**
-<br
+<br>
 
 ---
 
@@ -132,7 +132,6 @@ course of a semester?
 
 ### Installation
 
-**Installing this project and setting up its development environment took over an hour. I followed this guide for my computer:  
-[Development Environment (for first-timers)](https://zulip.readthedocs.io/en/stable/development/setup-vagrant.html). The guide was super helpful and straightforward. It had a useful troubleshooting section for installation issues and development environment issues. It was cool to connect the information collected above to a tangible product. While the project didn't really capture my attention at first, seeing the product in action definetly piqued my curiosity in contributing to it.** 
+**Installing this project and setting up its Vagrant development environment took over an hour. I followed this guide for my computer: [Development Environment (for first-timers)](https://zulip.readthedocs.io/en/stable/development/setup-vagrant.html). The guide was super helpful and straightforward. It had a useful troubleshooting section for installation issues and development environment issues. It was cool to connect the information collected above to a tangible product. While the project didn't really capture my attention at first, seeing the product in action definetly piqued my curiosity in contributing to it.** 
 
 
