@@ -141,7 +141,7 @@ Read the issue conversations.
 <br>
 
 4. Are people friendly in the issues, discussion forum, and chat?
-**Yes, people are friendly. I found instances of greetings, gratefulness, and helpfulness within the community.*
+**Yes, people are friendly. I found instances of greetings, gratefulness, and helpfulness within the community.**
 <br>
 
 5. Do maintainers thank people for their contributions?
