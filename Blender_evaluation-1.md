@@ -167,7 +167,7 @@ Read the issue conversations.
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
-* No, I would not be interested in possibly contributing to this project. I had a difficult time navigating through their repository, and was unable to evaluate things thoroughly. Evidently, there were issues finding pull requests and the issue tracker. They also do not provide a handful of the important documentation, which I believe is necessary.
+* No, we would not be interested in possibly contributing to this project. We had a difficult time navigating through their repository, and was unable to evaluate things thoroughly. Evidently, there were issues finding pull requests and the issue tracker. They also do not provide a handful of the important documentation, which we believe is necessary.
 
 ### Installation Process
 Installing the software application with the source code was fairly simple and easy. At first I was slightly confused on how to do it, but after asking others and doing my research, I was able to manage.
