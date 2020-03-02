@@ -11,7 +11,7 @@ Troy Daniello, Edmund Adewa
 
 ### License
 
-_1. What is the project's license?_
+__1. What is the project's license?__
 
   A Permissive License.
 
@@ -24,44 +24,44 @@ different licenses on specific files, but the project will have a main license.
 ### Code Base
 
 
-_1. What is the primary programming language in the project?_
+__1. What is the primary programming language in the project?__
 <br>
 
   C++
 
-_1. What is the development environment? For example, is it Gnu C++ on Linux?
-Are there instructions for how to download, build, and install?_
+__1. What is the development environment? For example, is it Gnu C++ on Linux?
+Are there instructions for how to download, build, and install?__
 <br>
 
   There are instructions on how to install Facebook Folly, 
 
-_1. Does the project depend on external additional software modules such as
-database,  graphics, web development, or other libraries?_
+__1. Does the project depend on external additional software modules such as
+database,  graphics, web development, or other libraries?__
 <br>
 
   It relies on facebook libraries and 
 
-_1. Is the code easy to understand? Browse some source code files and make
-a judgment based on your random sample._
+__1. Is the code easy to understand? Browse some source code files and make
+a judgment based on your random sample.__
 <br>
 
-_1. Is this a big project? If you can, find out about how many lines of code
-are in it, perhaps on [OpenHub](https://www.openhub.net/)._
+__1. Is this a big project? If you can, find out about how many lines of code
+are in it, perhaps on [OpenHub](https://www.openhub.net/).__
 <br>
 
 
-_1. Does the repository have tests?_
+__1. Does the repository have tests?__
 <br>
 
 
 ---
 
 ### Code and Design Documentation
-_1. Is there clear documentation in the code itself?_
+__1. Is there clear documentation in the code itself?__
 <br>
 
 
-_1. Is there documentation about the design?_
+__1. Is there documentation about the design?__
 <br>
 
 
@@ -71,35 +71,35 @@ _1. Is there documentation about the design?_
 ### Activity Level
 
 
-_1. How many commits have been made in the past week?_
+__1. How many commits have been made in the past week?__
 <br> 34 commits.
 
-_1. When was the most recent commit?_
+__1. When was the most recent commit?__
 <br> Feb 26 2020
 
-_1. How many issues are currently open?_
+__1. How many issues are currently open?__
 <br> 173 issues.
 
-_1. How long do issues stay open?
+__1. How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average._
+Compute the number of days that each was open and take the average.__
 <br> 
 
 Most issues are closed relatively quickly after they are opened as in in the same day or by a few days later.
 1+1+1+2+4 = 9/5 = 1.8 days
 
-_1. Is there active discussion on the issues?
-Read the conversations from some open and some closed issues._
+__1. Is there active discussion on the issues?
+Read the conversations from some open and some closed issues.__
 <br>
 
-_1. Are issues tagged as easy, hard, for beginners, etc.?_
+__1. Are issues tagged as easy, hard, for beginners, etc.?__
 <br>
 
-_1. How many issues were closed in the past six months?_
+__1. How many issues were closed in the past six months?__
 <br>
 
 
-1. Is there information about how many people are maintaining the project?
+__1. Is there information about how many people are maintaining the project?__
 <br>
 
 __1. How many contributors has the project had in the past six months?__
