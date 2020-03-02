@@ -22,7 +22,7 @@ Keisuke Suzuki
 1. What is the primary programming language in the project?  
 **C++**
 
-2. What is the development environment? For example, is it Gnu C++ on Linux? Are
+1. What is the development environment? For example, is it Gnu C++ on Linux? Are
    there instructions for how to download, build, and install?  
    * **Building Environments**
       * Windows:  
@@ -42,20 +42,20 @@ Keisuke Suzuki
     * **There are a detailed [documentation](https://api.libreoffice.org/) and a
      [video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
 
-3. Does the project depend on external additional software modules such as
+1. Does the project depend on external additional software modules such as
    database, graphics, web development, or other libraries?  
 **Yes**
 
-4. Is the code easy to understand? Browse some source code files and make a
+1. Is the code easy to understand? Browse some source code files and make a
    judgment based on your random sample.  
 **Yes, as far as I checked they are indented well with rich comments.**
 
-5. Is this a big project? If you can, find out about how many lines of code are
+1. Is this a big project? If you can, find out about how many lines of code are
    in it.  
 **It is a massive project. It has 9.51M lines of code, according to
    [OpenHub](https://www.openhub.net/).**
 
-6. Does the repository have tests?  
+1. Does the repository have tests?  
 **Yes, they are in *root*/test**
 
 ---
@@ -65,7 +65,7 @@ Keisuke Suzuki
 1. Is there clear documentation in the code itself?  
 **Yes**
 
-2. Is there documentation about the design?  
+1. Is there documentation about the design?  
 **Yes, they can be referred from
    [this page](https://wiki.documentfoundation.org/Design).**
 
@@ -78,43 +78,42 @@ Keisuke Suzuki
 1. How many commits have been made in the past week?  
 **1085**
 
-2. When was the most recent commit?  
+1. When was the most recent commit?  
 **Mar 1, 2020**
 
-3. How many issues are currently open?  
+1. How many issues are currently open?  
 **None**
 
-4. How long do issues stay open?  
+1. How long do issues stay open?  
 **No issues are recorded in Github's read only repository**
 
-5. Is there active discussion on the issues?  
+1. Is there active discussion on the issues?  
 **No**
 
-6. Are issues tagged as easy, hard, for beginners, etc.?  
+1. Are issues tagged as easy, hard, for beginners, etc.?  
 **No**
 
-7. How many issues were closed in the past six months?  
+1. How many issues were closed in the past six months?  
 **None**
 
-8. Is there information about how many people are maintaining the project?  
+1. Is there information about how many people are maintaining the project?  
 **Could not find the information**
-9. How many contributors has the project had in the past six months? <br>
+1. How many contributors has the project had in the past six months? <br>
 
-
-10. How many open pull requests are there?  
+1. How many open pull requests are there?  
 **11**
 
-11. Do pull requests remain un-answered for a long time?
+1. Do pull requests remain un-answered for a long time?
  Look at the closed pull requests to see how long they stayed open.
  Take the five most recently closed ones and look at when each was first reported.
  Compute the number of days that each was open and take the average.  <br>
 
-12. Is there active discussion on the pull requests?  
+1. Is there active discussion on the pull requests?  
 **No, because there is no issues on github.**
 
-13. How many pull requests were opened within the past six months?  
+1. How many pull requests were opened within the past six months?  
 **None**
-14. When was the last  pull request  merged?  
+1. When was the last  pull request  merged?  
 **None**
 
 
@@ -126,16 +125,16 @@ Keisuke Suzuki
    it? Look through it and see if it is clear and thorough.  
 **No**
 
-2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
+1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it?  
 **No**
 
-3. Do the maintainers respond helpfully to questions in issues? Are responses
+1. Do the maintainers respond helpfully to questions in issues? Are responses
    generally constructive? Read the issue conversations.
 
-4. Are people friendly in the issues, discussion forum, and chat?  
+1. Are people friendly in the issues, discussion forum, and chat?  
 
-5. Do maintainers thank people for their contributions?  
+1. Do maintainers thank people for their contributions?  
 
 
 ### Summary
