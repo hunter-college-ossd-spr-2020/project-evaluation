@@ -1,9 +1,9 @@
-**Project Name**:
+**Project Name**: Ghidra
 
 
 ---
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Erick, Christina, Gillian 
 
 
 ---
