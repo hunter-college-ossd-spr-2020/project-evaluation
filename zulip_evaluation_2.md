@@ -1,9 +1,9 @@
-## **Zulip**:
+## **[Zulip](https://github.com/zulip/zulip)**:
 
 
 ---
 
-**Shania**: 
+**Shania**:
 
 
 ---
