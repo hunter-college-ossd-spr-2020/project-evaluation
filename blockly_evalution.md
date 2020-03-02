@@ -15,9 +15,8 @@
 1. What is the project's license?
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.      
-
-  **The project's license grants the user with the right to use the product royalty-free, the user is allowed to make, user, offer, sell, and import. finally the user is not allowed  to use the trade names or trademarks**
+different licenses on specific files, but the project will have a main license.        
+**The project's license grants the user with the right to use the product royalty-free, the user is allowed to make, user, offer, sell, and import. finally the user is not allowed  to use the trade names or trademarks**
 
 <br>
 
@@ -28,44 +27,39 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?    
-
 **The primary programming language in the project  is JavaScript**
-<br>
-
+<br>      
 2. What is the development environment? For example, is it Gnu C++ on Linux?
-Are there instructions for how to download, build, and install?    
+Are there instructions for how to download, build, and install?        
 **This is developed primarily using javascript to be run on Internet Explorer 10 and 11, Microsoft Edge, Chrome, Safari, and Firefox.**
-<br>
+<br>   
 
 3. Does the project depend on external additional software modules such as
-database,  graphics, web development, or other libraries?    
+database,  graphics, web development, or other libraries?      
 **This is a web based software, where users users blocks of code to build larger programs. This does rely on base web features, but nothing more.**
-<br>
+<br>   
 
 4. Is the code easy to understand? Browse some source code files and make
-a judgment based on your random sample.      
+a judgment based on your random sample.        
 **Most of the files that were browsed appear to have some good comments that made them understandable even if a user didn't know what the code was doing. However there were files, mostly the shorter code files, that didn't have any sort of comments which made those codes hard to understand because even though the files were short they had functions that were used in other code files.**
 <br>  
+
 5. Is this a big project? If you can, find out about how many lines of code
-are in it, perhaps on [OpenHub](https://www.openhub.net/).  
-
-  **This project has about 144,354 lines of code which makes this project  relatively small as compared to other projects out   there.**
+are in it, perhaps on [OpenHub](https://www.openhub.net/).    
+ **This project has about 144,354 lines of code which makes this project  relatively small as compared to other projects out   there.**
 <br>  
-6. Does the repository have tests?      
-**Yes, this project has a folder of tests to run**
-<br>
 
+6. Does the repository have tests?      
+ **Yes, this project has a folder of tests to run**
+<br>
 
 ---
 
 ### Code and Design Documentation
 1. Is there clear documentation in the code itself?    
-
 **Most of the files that were browsed appear to have some good comments that made each function easy to understand which is very beneficial for those looking to  contribute to a project. However there were some files present that had no comments, mostly the shorter ones, that made it hard to understand the code because it was unknown what that code was supposed to be for until the user thoroughly read the code.**
-<br>
-
+<br>  
 2. Is there documentation about the design?    
-
 **Yes, the project contains files regarding the design**
 <br>
 
@@ -76,30 +70,25 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 
 
 1. How many commits have been made in the past week?  
-
 **No commits have been made in the past week to the master branch but 14 commits have been made to all branches.**
-<br>
+<br>   
 
 2. When was the most recent commit?  
-
 **The most recent commit was on Febuary 3.**
-<br>
+<br>  
 
 3. How many issues are currently open?  
-
 **Currently there are 405 issues open.**
-<br>
+<br>  
 
 4. How long do issues stay open?  
 Take the five most recently closed issues and look at when each was first reported.  
 Compute the number of days that each was open and take the average.  
-  **Opened 8 days ago -- closed 2 days ago -- total of 7 days. Opened 3 days ago -- closed 2 days ago -- total of 2 days.      Opened 5 days ago -- closed 3 days ago -- total of 3 days. Opened 22 days ago -- closed 3 days ago -- total of 20 days.     Opened 4 days ago -- closed 3 days ago -- total of 2 day. (7+2+3+20+2)/5 = 34 days total / 6.8 = _6.8 days open on average_**
-
-<br>
+**Opened 8 days ago -- closed 2 days ago -- total of 7 days. Opened 3 days ago -- closed 2 days ago -- total of 2 days.       Opened 5 days ago -- closed 3 days ago -- total of 3 days. Opened 22 days ago -- closed 3 days ago -- total of 20 days.      Opened 4 days ago -- closed 3 days ago -- total of 2 day. (7+2+3+20+2)/5 = 34 days total / 6.8 = _6.8 days open on average_**
+<br> 
 
 5. Is there active discussion on the issues?  
 Read the conversations from some open and some closed issues.  
-
 **Conversations are fairly scarce in the open issues. On the other hand, in the closed issues, if the issue could not be immediately solved, then active discussions would take place to either understand the problem or flesh out what exactly needs to be fixed. But the observable majority of conversations have 1 or no comments**
 <br>
 
