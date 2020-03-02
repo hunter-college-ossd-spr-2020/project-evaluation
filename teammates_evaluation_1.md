@@ -60,21 +60,21 @@ Read the conversations from some open and some closed issues.<br>Yes, there is a
 
 1. Are issues tagged as easy, hard, for beginners, etc.?<br>I see that there are issues tagged as **FirstTimers**, however none are tagged easy or hard. However, I do see some issues tagged as **Low**, **Medium**, and **High**, referring to the level of impact the issue will have on the project. The other issues are tagged for what the issue is, like **Feature** or **Bug**. 
 
-1. How many issues were closed in the past six months?<br>Within the last six months, <b>xx</b> issues were closed.
+1. How many issues were closed in the past six months?<br>Within the last six months, <b>48</b> issues were closed.
 
-1. Is there information about how many people are maintaining the project?<br>There are **xx** maintainers for this project.
+1. Is there information about how many people are maintaining the project?<br>I found their [about](https://teammatesv4.appspot.com/about.jsp) page, which acknowledges all of the maintainers of the project. There are **7** people on the core team.
 
-1. How many contributors has the project had in the past six months?<br>**xx** authors staged <b>xx</b> commits within the last 10 months.
+1. How many contributors has the project had in the past six months?<br>**4** authors staged commits to master within the last six months.
 
-1. How many open pull requests are there?<br>There is currently <b>one</b> open merge request.
+1. How many open pull requests are there?<br>There is currently <b>38</b> open merge requests.
 
 1. Do pull requests remain un-answered for a long time? Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.<br>0 + 0 + 3 + 10 + 0 <br>The average number of days pull requests stay open is <b>3</b> days.
 
-1. Is there active discussion on the pull requests? Use the same method as you did for the issues.<br>Yes, there is active discussion on the pull requests.
+1. Is there active discussion on the pull requests? Use the same method as you did for the issues.<br>Yes, there is active discussion on the pull requests. There also seems to be screenshots and links to other resources as well. 
 
-1. How many pull requests were opened within the past six months?<br>There were **14** pull requests opened within the past six months.
+1. How many pull requests were opened within the past six months?<br>There were **77** pull requests opened within the past six months.
 
 1. When was the last  pull request merged?<br>The last pull request was merged <b>six</b> hours ago.
 
@@ -97,7 +97,7 @@ Yes, they do! I looked through some issue conversations and the issue-openers we
 
 ### Installation Process Reflection
 
-I followed [this](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md) document to help me set up TEAMMATES. It took quite a while to clone the repository, since it is a fairly large project. It was tedious having to set up my JDK, since I had to create an Oracle account. I also had to get Python 2.7, which I luckily already had on my laptop. Then I set up Gradle, which I was hesitant to do initially since I have a lack of experience with Gradle, so who knows what could have happened. I might have gotten a virus. Running ```./gradlew createConfigs``` created a grayed-out ```gradle.properties``` file in my project's root directory. Then I used ```npm ci```to download the necessary tools for front-end development. This added a folder named ```node_modules``` to my root directory. <br>I then went onto the [development](https://github.com/wongjessica/teammates/blob/master/docs/development.md) guide to finish setting up. There, I followed all the steps without trouble to set up the front-end development server. I ran ```npm run start``` and the front-end development server was successfully hosted on ```http://localhost:4200```. I was surprised that this process was pretty painless and self-explanatory. The documentation made everything clear and easy to follow, and I am glad that I was able to set up the application.
+I followed [this](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md) document to help me set up TEAMMATES. It took quite a while to clone the repository, since it is a fairly large project. It was tedious having to set up my JDK, since I had to create an Oracle account. I also had to get Python 2.7, which I luckily already had on my laptop. Then I set up Gradle, which I was hesitant to do initially since I have a lack of experience with Gradle, so who knows what could have happened. I might have gotten a virus. Running ```./gradlew createConfigs``` created a grayed-out ```gradle.properties``` file in my project's root directory. Then I used ```npm ci```to download the necessary tools for front-end development. This added a folder named ```node_modules``` to my root directory. <br>I then went onto the [development](https://github.com/wongjessica/teammates/blob/master/docs/development.md) guide to finish setting up. There, I followed all the steps without trouble to set up the front-end development server. I ran ```npm run start``` and the front-end development server was successfully hosted on ```http://localhost:4200```. I was surprised that this process was pretty painless and self-explanatory. The documentation made everything clear and easy to follow, and I am glad that I was able to set up the application. However, this process did indeed make my laptop a little hot. 
 
 ---
 
