@@ -28,7 +28,8 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the primary programming language in the project?    
 **The primary programming language in the project  is JavaScript**
-<br>      
+<br>  
+
 2. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?        
 **This is developed primarily using javascript to be run on Internet Explorer 10 and 11, Microsoft Edge, Chrome, Safari, and Firefox.**
@@ -59,6 +60,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 1. Is there clear documentation in the code itself?    
 **Most of the files that were browsed appear to have some good comments that made each function easy to understand which is very beneficial for those looking to  contribute to a project. However there were some files present that had no comments, mostly the shorter ones, that made it hard to understand the code because it was unknown what that code was supposed to be for until the user thoroughly read the code.**
 <br>  
+
 2. Is there documentation about the design?    
 **Yes, the project contains files regarding the design**
 <br>
@@ -93,22 +95,22 @@ Read the conversations from some open and some closed issues.
 <br>
 
 6. Are issues tagged as easy, hard, for beginners, etc.?  
-
-  **The issues are not tagged as easy, hard, for beginners, or anything of the sort.**
+**The issues are not tagged as easy, hard, for beginners, or anything of the sort.**
 <br>
 
 7. How many issues were closed in the past six months?  
-  **292 issues were closed in the past six months**
-<br>
+**292 issues were closed in the past six months**
+<br>  
 
 8. Is there information about how many people are maintaining the project?  
-  **No, there is no clear indication how many people are maintaining the project.**
+**No, there is no clear indication how many people are maintaining the project.**
 <br>  
+
 9. How many contributors has the project had in the past six months?  
 **127 people have contributed in the last 6 months.**
 <br>
-10. How many open pull requests are there?  
 
+10. How many open pull requests are there?   
 **There are currently 27 open pull requests.**
 <br>
 
@@ -127,18 +129,14 @@ Compute the number of days that each was open and take the average.**
 
 12. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.  
-
 **The merged pull requests have very little conversation (with the exception of very few pull requests), but these were also approved for merging within a few days. The open pull requests have much more conversation. Interestingly, a maintainer has decided to keep some pull requests open as a reference for other users. One open request is an enhancement for the blockly system that differs from the original implementation. Instead of rejecting or closing the issue, the maintainer decided to mark it as an optimization and leave it open for others.**
 <br>
 
 13. How many pull requests were opened within the past six months?  
-
 **386 pull requests were opened in the last 6 months, but only 8 are still open.**
 <br>
 
-
 14. When was the last  pull request  merged?  
-
 **The last pull request was merged February 27.**
 <br>
 
@@ -146,30 +144,25 @@ Use the same method as you did for the issues.
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough.  
-
 **Blockly does include a CONTRIBUTING document and it is short and easy to understand.**
 <br>
 
 2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it?  
-
 **There is no CODE OF CONDUCT document found for this project**
 <br>
 
 3. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 Read the issue conversations.  
-
 **There are several maintainers that repeatedly respond to issues and provide help by either reproducing the problems found and try to form a solution.**
 <br>
 
 4. Are people friendly in the issues, discussion forum, and chat?  
-
 **Yes, for the most part people appear to be pretty nice and helpful.**
 <br>
 
 5. Do maintainers thank people for their contributions?  
-
 **Maintainers don't seem to thank people for their contributions but they do handle the problems.**
 <br>
 
