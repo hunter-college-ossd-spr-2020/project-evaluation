@@ -41,8 +41,8 @@ upstream remote that points to this original repository:
      git remote add upstream \
      https://github.com/hunter-college-ossd-spr-2020/project-evaluation.git
    ```
-  The backslash is in the command because the entire command is too long and
-  extends off the page here.
+   The backslash is in the command because the entire command is too long and
+   extends off the page here.
 
 1. Then you should create a new branch named `fuzzball`
 (or whatever your project's name is), do all  work  in that new branch.
