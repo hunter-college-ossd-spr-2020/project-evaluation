@@ -26,11 +26,9 @@
 
 ### Code Base
 
-
 1. What is the primary programming language in the project?  
    * The primary programming language in the project  is JavaScript.
 <br>
-
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
    Are there instructions for how to download, build, and install?  
@@ -52,11 +50,9 @@
    * This project has about 144,354 lines of code which makes this project  relatively small as compared to other projects out there.
 <br>
 
-
 1. Does the repository have tests?  
    * Yes, this project has a folder of tests to run.
 <br>
-
 
 ---
 
@@ -65,17 +61,13 @@
    * Most of the files that were browsed appear to have some good comments that made each function easy to understand which is very beneficial for those looking to  contribute to a project. However there were some files present that had no comments, mostly the shorter ones, that made it hard to understand the code because it was unknown what that code was supposed to be for until the user thoroughly read the code.
 <br>
 
-
 1. Is there documentation about the design?  
    * Yes, the project contains files regarding the design
 <br>
 
-
 ---
 
-
 ### Activity Level
-
 
 1. How many commits have been made in the past week?  
    * No commits have been made in the past week to the master branch but 14 commits have been made to all branches.
@@ -115,7 +107,6 @@
    * 292 issues were closed in the past six months
 <br>
 
-
 1. Is there information about how many people are maintaining the project?  
    * No, there is no clear indication how many people are maintaining the project.
 <br>
@@ -123,7 +114,6 @@
 1. How many contributors has the project had in the past six months?  
    * 127 people have contributed in the last 6 months.
 <br>
-
 
 1. How many open pull requests are there?  
    * There are currently 27 open pull requests.
@@ -149,7 +139,6 @@
 1. How many pull requests were opened within the past six months?  
    * 386 pull requests were opened in the last 6 months, but only 8 are still open.
 <br>
-
 
 1. When was the last  pull request  merged?   
    * The last pull request was merged February 27.
