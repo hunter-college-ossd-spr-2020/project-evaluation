@@ -1,10 +1,9 @@
 **Project Name**:
 TEAMMATES
-([Gitlab Repository](https://github.com/TEAMMATES/teammates))
+([GitHub Repository](https://github.com/TEAMMATES/teammates))
 ---
 
-**Evaluating Person or Team**:
-- Jessica Wong
+**Evaluating Person or Team**: Jessica Wong
 ---
 
 
@@ -24,23 +23,22 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the primary programming language in the project? <br>[**Java**](https://en.wikipedia.org/wiki/Java_(programming_language)) is the main programming language.
 
-1. What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install? <br>As GNOME Clocks is primarily written in Vala, which gets compiled down to C (instead of machine language) and then compiled for local use with a C compiler, contributing would involve a couple of ingredients. These are the: Vala compiler, C compiler (default gcc), pkg-config (tool to pass library information to the C compiler), C standard library (typically glibc), and Glib2 library. There do not appear to be any clear instructions for how to download, build and install.
+1. What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install? <br> The development environment for TEAMMATES consists of Git, the Java Development Kit, the Gradle Build Tool, and Python 2.7 for any kind of work on the project, and Node.js and Angular CLI (only recommended). There is a guide for setting up this "TEAMMATES development environment" [here](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md).
 
-1. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries? <br>Yes, the project does have some software module dependencies, a list of which can be found [here](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/meson.build). The project's [HACKME](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/HACKME) document provides a [link](http://www.valadoc.org/) to documentation for these libraries. The HACKME also points to an [article](https://blogs.gnome.org/tvb/2013/05/29/composite-templates-lands-in-vala/), which gives some indication of how a developer will work with UI templates.
+1. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries? <br> The project depends on the external software listed in the ```package.json``` file, and npm (Node Package Manager) refers to this file and using npm install will install these.
 
 1. Is the code easy to understand? Browse some source code files and make a judgment based on your random sample. <br>
-Vala is a C-like language (perhaps unsurprising given that it compiles down to C) and is therefore fairly straightforward to read; thus the same can be said for the GNOME Clocks code. There are higher-level OOP concepts at play and this does detract from some clear readability, but as with any codebase, understanding comes with sufficient time.
+The main language in this project is Java. I have a background using Java, and based off of some of the ```.java``` files I have looked into, I can easily understand the code based off of the variable names and the extensive amount of code documentation. Java is an extremely wordy language, though, so it might get intimidating to look at, at first glance.
 
-1. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>According to OpenHub, GNOME Clocks consists of approximately six thousand lines of code and would therefore be considered a small project in the world of software development by that metric. While the project has over 250 contributors in total, work on it appears to be largely limited to a few developers. 
+1. Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>According to [OpenHub](https://www.openhub.net/p/teammates-on-github/analyses/latest/languages_summary), TEAMMATES consists of approximately 138,000 lines of code and would therefore be considered a large project in the world of software development by that metric. The project has over 420 contributors in total, with a lot of active activity.
 
-1. Does the repository have tests?<br>While there are a couple of tests for the UI, there do not appear to be any unit tests for the balance of the code.
+1. Does the repository have tests?<br> Yes, there is an entire folder dedicated to testing code. It can be found [here](https://github.com/TEAMMATES/teammates/tree/master/src/test).
 ---
 
 ### Code and Design Documentation
-1. Is there clear documentation in the code itself?<br>Comments are sparse in the [src](https://gitlab.gnome.org/GNOME/gnome-clocks/-/tree/master/src) directory, but used in necessity to point out FIXME's, TODO's, translator notes, and steps in complicated functions. 
-Some files are much more well documented than others, such as [alarm.vala](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/src/alarm.vala). Also, the functions and variables in the code are very clear and purposeful, helping hint at what is going on.
+1. Is there clear documentation in the code itself?<br>Based off of [OpenHub](https://www.openhub.net/p/teammates-on-github/analyses/latest/languages_summary), there are over 22,000 "Total Comment Lines", so you can say that there is a lot of documentation within the code. 
 
-1. Is there documentation about the design?<br>There is a [design page](https://wiki.gnome.org/Design/Apps/Clock#Objectives) that mentions the objectives of the app, however the rest of the page mainly contains mockups and wireframes of the app's frontend design. The GitLab repo doesn't seem to contain anything mentioning the code/directory structure or functional components of the project either.
+1. Is there documentation about the design?<br>Yes, there is a [design page](https://github.com/TEAMMATES/teammates/blob/master/docs/design.md) file that is organized into a lot of different sections, categorized by component. This design documentation is extremely organized and comes with easy-to-follow pictures to coincide with the explanation of each component.
 
 ---
 
@@ -84,26 +82,26 @@ Compute the number of days that each was open and take the average.<br>0 + 0 + 3
 
 ### Welcomeness and Community
 
-1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough.<br>Yes, I found a CONTRIBUTING document [here](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md). This document is easy to read and understand because they have organized sections within the document directing us to various topics of interest for contributing. For instance, they have a ***Getting started*** section, a ***How can I contribute?*** section, and a ***Contributor orientation guide***.
+1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it? Look through it and see if it is clear and thorough.<br>Yes, I found a CONTRIBUTING document [here](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md). This document is ***extremely*** easy to read and understand because they have organized sections within the document directing us to various topics of interest for contributing. For instance, they have a ***Getting started*** section, a ***How can I contribute?*** section, and a ***Contributor orientation guide***.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it?<br>Yes, I found a CODE OF CONDUCT document [here](https://github.com/TEAMMATES/teammates/blob/master/.github/CODE_OF_CONDUCT.md). It mentions that the community fosters a welcoming environment for everyone. Project maintainers in this project have the right to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that violate the code of conduct. The document also states that ***"All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances"***.
 
-1. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.<br>Based off of the issue conversations, the community seems very understanding and knowledgable. I saw that a couple of people are really thankful for some issues being opened by the community. Also, if somebody is confused, then they would ask for clarification. If there is an unaddressed problem, then the community would explain what the issue is in great detail.
+1. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations.<br>Based off of the issue conversations, the community seems very understanding, knowledgable, and friendly. A lot of people would open issues being confused about certain things, and then they would also ask for clarification. The people in the community are always here to help, and guide them without question. 
 
-1. Are people friendly in the issues, discussion forum, and chat?<br>Yes, the people thank others for their contributions. If somebody asks a question, then others in the community are willing to answer without hesitation. If somebody is confused, then they would say "Can you please elaborate...?".
+1. Are people friendly in the issues, discussion forum, and chat?<br>Yes, in one of the issues, I saw someone say "We don't want your effort being wasted. :)" and "Open to all suggestions :)" which I thought was really nice and heart-wearming. [This](https://github.com/TEAMMATES/teammates/issues/9946) is the issue where these kind words were found.
 
 1. Do maintainers thank people for their contributions?<br>
-Yes, they do! As previously mentioned, the maintainers thanked the community when opening up very useful issues.
+Yes, they do! I looked through some issue conversations and the issue-openers were almost always getting thanked by others. I enjoy such a positive community.
 
 ---
 
 ### Installation Process Reflection
 
-This is my installation process.
+I followed [this](https://github.com/TEAMMATES/teammates/blob/master/docs/setting-up.md) document to help me set up TEAMMATES. 
 
 ---
 
 ### Summary
 Do you think this is a project to which it would be possible to contribute in the course of a semester?
 
-This project is extremely active with a great community. 
+This project is extremely active with a great community. I actually am almost astonished by the welcomeness and the friendliness of the community. I looked through some issues and the community loves being nice to each other, and some sentences even end off with a smiley face, which makes me feel so invited, even though I am not even a contributor yet. There is an extensive amount of design documentation, and code documentation, so the previous contributors made it almost seamless to learn and study the project. They even have a [best practices](https://github.com/TEAMMATES/teammates/tree/master/docs/best-practices) folder to help beginners like me fit in. This folder teaches me the best practices for coding, data migration, testing, and UI design, which is extremely helpful. The installation process wasn't too bad either. I think this project is very doable to contribute to over the course of a semester, and definitely on my Top 3. 
