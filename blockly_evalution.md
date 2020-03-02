@@ -16,7 +16,7 @@
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.        
-**The project's license grants the user with the right to use the product royalty-free, the user is allowed to make, user, offer, sell, and import. finally the user is not allowed  to use the trade names or trademarks**
+**The project's license grants the user with the right to use the product royalty-free, the user is allowed to make, user, offer, sell, and import. finally the user is not allowed  to use the trade names or trademarks** 
 
 <br>
 
