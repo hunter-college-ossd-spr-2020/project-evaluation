@@ -23,8 +23,8 @@
 * The primary programming languages in the project are JSON and Javascript.
 <br>
 
-1. What is the development environment? For example, is it Gnu C++ on Linux?
-Are there instructions for how to download, build, and install?
+#### What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install?
+* The development environment is NodeJS, which is how they manage all the dependencies and could run the scripts for the project.
 <br>
 
 #### Does the project depend on external additional software modules such as database, graphics, web development, or other libraries?
@@ -35,8 +35,9 @@ Are there instructions for how to download, build, and install?
 * The code looks clear enough for contributors.
 <br>
 
-1. Is this a big project? If you can, find out about how many lines of code
-are in it, perhaps on [OpenHub](https://www.openhub.net/).
+#### Is this a big project? If you can, find out about how many lines of code are in it, perhaps on [OpenHub (https://www.openhub.net/).
+
+* Openhub does not have any information on this project, but it does have information on the search engine DuckDuckGo.
 <br>
 
 
