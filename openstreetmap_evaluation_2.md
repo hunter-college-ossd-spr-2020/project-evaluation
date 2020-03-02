@@ -40,9 +40,7 @@ Are there instructions for how to download, build, and install?
 database,  graphics, web development, or other libraries?
 
    Yes, there are servals external additional libraries that osm2pgsql uses locate at the [contrib](https://github.com/openstreetmap/osm2pgsql/tree/master/contrib) folder in the repository 
-
-<br>
-
+   
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
 
@@ -95,8 +93,7 @@ Take the five most recently closed issues and look at when each was first report
 Compute the number of days that each was open and take the average.
 
    Since, most of the recently closed issues were about errors, the average of the five most recently closed issues were 5 days.
-<br>
-
+   
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
 
