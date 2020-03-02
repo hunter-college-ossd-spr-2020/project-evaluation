@@ -20,17 +20,17 @@
 
 
 2. What is the primary programming language in the project?
-    - The primary programming language for Blender is C.
+   - The primary programming language for Blender is C.
 
 
 3. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?
 
-   -The Development environment is in C/C++ as well as some of it being in Python. They say that having a background in these should suffice. As for the installation of blender, they have easy to find instructions in their user manual with links to multiple instructions depending on your operating system.
+   - The Development environment is in C/C++ as well as some of it being in Python. They say that having a background in these should suffice. As for the installation of blender, they have easy to find instructions in their user manual with links to multiple instructions depending on your operating system.
 
 4. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?
-   Blender requires that all of it's code and commits be in particular format. This format is called Clang format. In their Development Environment guide they elaborate more on Clang format through a link and give instructions on how to set it up. For windows and mac it comes as a default and for linux they give simple and easy instructions on how to set it up
+- Blender requires that all of it's code and commits be in particular format. This format is called Clang format. In their Development Environment guide they elaborate more on Clang format through a link and give instructions on how to set it up. For windows and mac it comes as a default and for linux they give simple and easy instructions on how to set it up
 
 5. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.
