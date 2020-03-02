@@ -11,7 +11,7 @@ Troy Daniello, Edmund Adewa
 
 ### License
 
-__1. What is the project's license?__
+__What is the project's license?__
 
   A Permissive License.
 
@@ -24,44 +24,44 @@ different licenses on specific files, but the project will have a main license.
 ### Code Base
 
 
-__1. What is the primary programming language in the project?__
+__What is the primary programming language in the project?__
 <br>
 
   C++
 
-__1. What is the development environment? For example, is it Gnu C++ on Linux?
+__What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install?__
 <br>
 
   There are instructions on how to install Facebook Folly, 
 
-__1. Does the project depend on external additional software modules such as
+__Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries?__
 <br>
 
   It relies on facebook libraries and 
 
-__1. Is the code easy to understand? Browse some source code files and make
+__Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.__
 <br>
 
-__1. Is this a big project? If you can, find out about how many lines of code
+__Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).__
 <br>
 
 
-__1. Does the repository have tests?__
+__Does the repository have tests?__
 <br>
 
 
 ---
 
 ### Code and Design Documentation
-__1. Is there clear documentation in the code itself?__
+__Is there clear documentation in the code itself?__
 <br>
 
 
-__1. Is there documentation about the design?__
+__Is there documentation about the design?__
 <br>
 
 
@@ -71,16 +71,16 @@ __1. Is there documentation about the design?__
 ### Activity Level
 
 
-__1. How many commits have been made in the past week?__
+__How many commits have been made in the past week?__
 <br> 34 commits.
 
-__1. When was the most recent commit?__
+__When was the most recent commit?__
 <br> Feb 26 2020
 
-__1. How many issues are currently open?__
+__How many issues are currently open?__
 <br> 173 issues.
 
-__1. How long do issues stay open?
+__How long do issues stay open?
 Take the five most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.__
 <br> 
@@ -88,69 +88,69 @@ Compute the number of days that each was open and take the average.__
 Most issues are closed relatively quickly after they are opened as in in the same day or by a few days later.
 1+1+1+2+4 = 9/5 = 1.8 days
 
-__1. Is there active discussion on the issues?
+__Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.__
 <br>
 
-__1. Are issues tagged as easy, hard, for beginners, etc.?__
+__Are issues tagged as easy, hard, for beginners, etc.?__
 <br>
 
-__1. How many issues were closed in the past six months?__
-<br>
-
-
-__1. Is there information about how many people are maintaining the project?__
-<br>
-
-__1. How many contributors has the project had in the past six months?__
+__How many issues were closed in the past six months?__
 <br>
 
 
-__1. How many open pull requests are there?__
+__Is there information about how many people are maintaining the project?__
 <br>
 
-__1. Do pull requests remain un-answered for a long time?
+__How many contributors has the project had in the past six months?__
+<br>
+
+
+__How many open pull requests are there?__
+<br>
+
+__Do pull requests remain un-answered for a long time?
 Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
 Compute the number of days that each was open and take the average.__
 <br>
 
-__1. Is there active discussion on the pull requests?
+__Is there active discussion on the pull requests?
 Use the same method as you did for the issues.__
 <br>
 
-__1. How many pull requests were opened within the past six months?__
+__How many pull requests were opened within the past six months?__
 <br>
 
 
-__1. When was the last  pull request  merged?__
+__When was the last  pull request  merged?__
 <br>
 
 ---
 ### Welcomeness and Community
 
-__1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
+__Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough.__
 <br>
 
 Yes, in order to have a pull request accepted, one must sign a contributor license agreement.
 
-__1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
+__Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it?__
 <br>
 
 There is a description of enforcement, there is a contact email that is available 
 to be used to report violations.
 
-__1. Do the maintainers respond helpfully to questions in issues?
+__Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
 Read the issue conversations.__
 <br>
 
-__1. Are people friendly in the issues, discussion forum, and chat?__
+__Are people friendly in the issues, discussion forum, and chat?__
 <br>
 
-__1. Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__
 <br>
 
 ### Summary
