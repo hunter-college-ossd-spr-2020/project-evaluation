@@ -115,16 +115,16 @@ Read the conversations from some open and some closed issues.
 <br>
 
 11. Do pull requests remain un-answered for a long time?
-**Look at the closed pull requests to see how long they stayed open.
+Look at the closed pull requests to see how long they stayed open.
 Take the five most recently closed ones and look at when each was first reported.
-Compute the number of days that each was open and take the average.**
+Compute the number of days that each was open and take the average.
 
     1. Opened 4 days ago and closed 3 days ago. Total of 2 days
     2. Opened 5 days ago and closed 5 days ago. Total of 1 day
     3. Opened 6 days ago and closed 6 days ago. Total of 1 day
     4. Opened 7 days ago and closed 6 days ago. Total of 2 days
-    5. Opened 9 days ago and closed 6 days ago. Total of 4 days
-    * [2+1+1+2+4] = 10 days total / 5 = 2 days average open, which shows that pull request do not remained unanswered for long
+    5. Opened 9 days ago and closed 6 days ago. Total of 4 days  
+    **[2+1+1+2+4] = 10 days total / 5 = 2 days average open, which shows that pull request do not remained unanswered for long**
 <br>
 
 12. Is there active discussion on the pull requests?
