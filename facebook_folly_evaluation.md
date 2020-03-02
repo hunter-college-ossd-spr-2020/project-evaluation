@@ -4,7 +4,7 @@
 ---
 
 **Evaluating Person or Team**:
-### Edmund Adewu
+### Edmund Adewu, Troy Daniello
 
 ---
 
@@ -192,6 +192,6 @@ The maintainers are generally appreciative of project contributions.
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
 
-Although the project is primarily written in C++, the sheer amount of dependencies required may prove problematic in regards to storage occupancy and file management. In addition, the function descriptions lean towards the technical side. I will have to decline working on this project.
+Edmund Adewu: Although the project is primarily written in C++, the sheer amount of dependencies required may prove problematic in regards to storage occupancy and file management. In addition, the function descriptions lean towards the technical side. I will have to decline working on this project.
 
 
