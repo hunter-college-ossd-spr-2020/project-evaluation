@@ -136,7 +136,7 @@ Read the issue conversations.<br>
 
 ### Summary
 Do you think this is a project to which it would be possible to contribute in the
-course of a semester?
+course of a semester?<br>
   **Yes, I do believe it's possible to contribute to Zulip during the course of this semester. Zulip has a chat channel where new contributors can talk directly to more experienced contributors. Furthermore, Zulip has an extensive documentation that allows new contributors to be caught up to speed on how Zulip works. In discussions regarding pull requests and issues, maintainers are very active and always willing to help. It's worth mentioning that Zulip has a bot that directs contributors to relevant information in an efficient manner.**
 
 ### Installation
