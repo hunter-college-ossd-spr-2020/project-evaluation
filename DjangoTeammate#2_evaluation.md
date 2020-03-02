@@ -51,7 +51,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 <br>
 
 1. Does the repository have tests?
-    * Yes, the project has a whole entire subdirectory called and related to tests.
+   * Yes, the project has a whole entire subdirectory called and related to tests.
 <br>
 
 ---
