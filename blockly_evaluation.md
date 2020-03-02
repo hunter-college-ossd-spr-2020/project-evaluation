@@ -185,4 +185,4 @@ Read the issue conversations.
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?  
-* I personally find this project quite boring, although the level they require seems to be attainable for me. I wouldn't be opposed to work on this project, and of the ones I've seen so far, this does seem the most interesting of the bunch. So in summary, I do think this is a project the would be possible to contribute to the entire semester.
+* The level this project requires seems to be attainable for me. I wouldn't be opposed to work on this project, and of the ones I've seen so far, this does seem the most interesting of the bunch. So in summary, I do think this is a project that would be possible to contribute to the entire semester.
