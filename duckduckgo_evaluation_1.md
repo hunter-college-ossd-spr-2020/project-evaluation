@@ -1,6 +1,5 @@
 **Project Name**:
-DuckDuckGo Privacy Essentials
-([Github Repository](https://github.com/duckduckgo/duckduckgo-privacy-extension))
+[DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension)
 ---
 
 **Evaluating Person or Team**:
@@ -14,18 +13,22 @@ DuckDuckGo Privacy Essentials
 1. What is the project's license?
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license. <br> The project's [license](https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/develop/LICENSE) is the Apache License, Version 2.0. The DuckDuckGo logos and marks used in the project are actually licensed separately under the CCBY-NC-ND 4.0.
+different licenses on specific files, but the project will have a main license. <br> 
+The project's [license](https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/develop/LICENSE) is the **Apache License, Version 2.0**. The DuckDuckGo logos and marks used in the project are actually licensed separately under the **CCBY-NC-ND 4.0**.
 
 ---
 
 ### Code Base
 
 
-1. What is the primary programming language in the project? <br> Javascript is the main programming language, with a sprinkle of CSS also used.
+1. What is the primary programming language in the project? <br> 
+**Javascript** is the main programming language, with a sprinkle of **CSS** also used.
 
-1. What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install? <br> Node.js
+1. What is the development environment? For example, is it Gnu C++ on Linux? Are there instructions for how to download, build, and install? <br> 
+The `CONTRIBUTING` document contains [a section](https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/develop/CONTRIBUTING.md#development) with basic instructions on building, developing, and testing. The project uses a [**Node.js**](https://nodejs.org/) development environment, and scripts for these actions are run using [npm](https://www.npmjs.com/). 
 
-1. Does the project depend on external additional software modules such as database,  graphics, web development, or other libraries? <br> Dependencies in package.json
+1. Does the project depend on external additional software modules such as database, graphics, web development, or other libraries? <br> 
+The dependencies of the project are listed in the [package.json](https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/develop/package.json#L61) file. Notable development specific library dependencies are [Selenium](https://www.selenium.dev/) and [Grunt](https://gruntjs.com/).
 
 1. Is the code easy to understand? Browse some source code files and make a judgment based on your random sample. <br>
 Scripts and shared folder, not sure how they interact.
@@ -102,5 +105,9 @@ The last pull request was merged <b>n</b> hour ago.
 
 ---
 
+### Installation Process
+
+
 ### Summary
 Do you think this is a project to which it would be possible to contribute in the course of a semester?
+
