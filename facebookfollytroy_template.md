@@ -6,6 +6,7 @@ Facebook Folly
 **Evaluating Person or Team**:
 Troy Daniello
 
+Troy Daniello, Edmund Adewu
 ---
 
 
