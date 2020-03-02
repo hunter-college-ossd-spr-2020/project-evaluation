@@ -17,11 +17,10 @@
 ### License
 
 1. What is the project's license?
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
 
 **The license that this project has is a 3-clause BSD license. **
+
+
 ---
 
 ### Code Base
@@ -64,6 +63,8 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 1. Is there documentation about the design? 
 
 **Yes, the design of the project is fairly explicated on the website.**
+
+
 ---
 
 ### Activity Level
