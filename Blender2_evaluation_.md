@@ -141,3 +141,8 @@ Read the issue conversations.
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
 * No, we would not be interested in possibly contributing to this project. We had a difficult time navigating through their repository, and was unable to evaluate things thoroughly. Evidently, there were issues finding pull requests and the issue tracker. They also do not provide a handful of the important documentation, which we believe is necessary.
+
+
+### installing Process
+
+I have completed the installing process and it was tough. I found that finding the instructions for the manual installation was difficult because although they have a instructions on how to build it, it took some time to find it through navigation. It was also my first time manually setting up a program. Usually an installer that is provided is the easier route. However, I understand that I would need the ability to do this when contributing.  
