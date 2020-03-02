@@ -17,8 +17,7 @@
 ### License
 
 1. What is the project's license?
-
-**The license that this project has is a 3-clause BSD license. **
+ **The license that this project has is a 3-clause BSD license. **
 
 
 ---
@@ -30,22 +29,18 @@
 
 1. What is the development environment? For example, is it Gnu C++ on Linux?
 Are there instructions for how to download, build, and install? 
-
 **The development environment is CMake . Yes, there are instructions on how to download, build, and install, depending on the platform. [Link to download, build and install]( https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html) **
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? 
-
 **Yes, the project does depend on other modules. The list of modules can be found [here] (https://docs.opencv.org/master/modules.html) **
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.  
-
 **The code is somewhat easy to understand, but there are a few language barriers. The majority of the code is written in C++, but some of the code is written in CMake, Java, and Cuda all of which I lack familiarity with. **
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). 
-
 **Unfortunately, OpenHub doesn’t have it on file. By rough estimation it appears to have 2 million lines of code.**
 
 1. Does the repository have tests?
@@ -70,7 +65,6 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).
 ### Activity Level
 
 1. How many commits have been made in the past week?
-
 **In the past week, there has been 19 commits.**
 
 1. When was the most recent commit?
@@ -87,7 +81,6 @@ Compute the number of days that each was open and take the average.
 
 1. Is there active discussion on the issues?
 Read the conversations from some open and some closed issues.
-
 **Yes, it is fairly active. There are active discussions on the issues. **
 
 1. Are issues tagged as easy, hard, for beginners, etc.? 
