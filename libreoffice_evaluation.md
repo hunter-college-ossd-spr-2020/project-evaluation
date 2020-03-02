@@ -24,23 +24,24 @@ Keisuke Suzuki
 
 1. What is the development environment? For example, is it Gnu C++ on Linux? Are
    there instructions for how to download, build, and install?  
-   * **Building Environments**
-      * Windows:  
-          Runtime: Windows 7
-          Build: Cygwin + Visual Studio 2017 version 15.7
-      * macOS:
-       Runtime: 10.10
-       Build: 10.14.4 + Xcode 11.3
-      * Linux:
-       Runtime: RHEL 7 or CentOS 7
-       Build: either GCC 7.0.0; or Clang 5.0.2 with libstdc++ 7.3.0
-      * iOS (only for LibreOfficeKit):
-       Runtime: 11.4 (only support for newer i devices == 64 bit)
-       Build: Xcode 9.3 and iPhone SDK 11.4
-      * Android:
-       Build: NDK r19c and SDK 22.6.2.
-    * **There are a detailed [documentation](https://api.libreoffice.org/) and a
-     [video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
+    * **Building Environments**
+        * Windows:
+	    Runtime: Windows 7
+            Build: Cygwin + Visual Studio 2017 version 15.7
+        * macOS:
+            Runtime: 10.10
+            Build: 10.14.4 + Xcode 11.3
+        * Linux:
+            Runtime: RHEL 7 or CentOS 7
+            Build: either GCC 7.0.0; or Clang 5.0.2 with libstdc++ 7.3.0
+        * iOS (only for LibreOfficeKit):
+            Runtime: 11.4 (only support for newer i devices == 64 bit)
+            Build: Xcode 9.3 and iPhone SDK 11.4
+        * Android:
+            Build: NDK r19c and SDK 22.6.2.  
+    * **There are a detailed [documentation](https://api.libreoffice.org/) and a [
+video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
+
 
 1. Does the project depend on external additional software modules such as
    database, graphics, web development, or other libraries?  
