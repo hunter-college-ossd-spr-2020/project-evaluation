@@ -14,7 +14,6 @@
 
 ### Installation Process
 1. What is the installation process like?
-
 **There are various installation processes for different platforms, such as Windows, linux, or MacOS. The different types of instillation processes can be found here [Installation’s](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html).** 
 
 
