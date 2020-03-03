@@ -162,4 +162,4 @@ Read the issue conversations.
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
-**Edmund Adewu: Although the project is primarily written in C++, the sheer amount of dependencies required may prove problematic in regards to storage occupancy and file management. In addition, the function descriptions lean towards the technical side. I will have to decline working on this project.**
+**Although the project is primarily written in C++, the sheer amount of dependencies required may prove problematic in regards to storage occupancy and file management. In addition, the function descriptions lean towards the technical side. The limited discussion and lack of complexity-related labels doesn't necessarily ease newcomers into the thick of things. I will have to decline working on this project.**
