@@ -13,18 +13,15 @@
 
 
 ### Installation Process
-
 1. What is the installation process like?
-**There are various installation processes for different platforms, such as Windows, linux, or MacOS. The different types of instillation processes can be found here [Installation’s](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html)**. 
+
+**There are various installation processes for different platforms, such as Windows, linux, or MacOS. The different types of instillation processes can be found here [Installation’s](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html).** 
 
 
 ### License
 
 1. What is the project's license?
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
-**The license that this project has is a 3-clause BSD license. **
+**The license that this project has is a 3-clause BSD license.**
 
 
 ---
