@@ -126,4 +126,4 @@ Maintainers do that people for their contributions.
 
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the course of a semester?<br>
-This is a project that would be worth contributing.
+This is a project that would be worth contributing.I tried installing the atom software but I was having difficulties since it requires packets and some commands were for linux and others for Indows and those commands didn't work on my operating system.
