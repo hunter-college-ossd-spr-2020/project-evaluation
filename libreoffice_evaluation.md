@@ -45,7 +45,7 @@ video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
 
 1. Does the project depend on external additional software modules such as
    database, graphics, web development, or other libraries?  
-**Yes**
+**Yes.**
 
 1. Is the code easy to understand? Browse some source code files and make a
    judgment based on your random sample.  
@@ -57,7 +57,7 @@ video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
    [OpenHub](https://www.openhub.net/).**
 
 1. Does the repository have tests?  
-**Yes, they are in *root*/test**
+**Yes, they are in *root*/test**.
 
 ---
 
@@ -67,8 +67,8 @@ video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
 **Yes**
 
 1. Is there documentation about the design?  
-**Yes, they can be referred from
-   [this page](https://wiki.documentfoundation.org/Design).**
+**Yes, they can be referred from [
+this page](https://wiki.documentfoundation.org/Design).**
 
 ---
 
@@ -99,7 +99,9 @@ video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
 
 1. Is there information about how many people are maintaining the project?  
 **Could not find the information**
-1. How many contributors has the project had in the past six months? <br>
+
+1. How many contributors has the project had in the past six months?  
+**Could not figure out how to count contributors other than github.**
 
 1. How many open pull requests are there?  
 **11**
@@ -107,13 +109,15 @@ video Instruction](http://www.youtube.com/watch?v=2gIqOOajdYQ&hd=1).**
 1. Do pull requests remain un-answered for a long time?
  Look at the closed pull requests to see how long they stayed open.
  Take the five most recently closed ones and look at when each was first reported.
- Compute the number of days that each was open and take the average.  <br>
+ Compute the number of days that each was open and take the average.  
+**(49 + 43 + 0 + 0 + 0)/2 = 46, so 46 days** 
 
 1. Is there active discussion on the pull requests?  
 **No, because there is no issues on github.**
 
 1. How many pull requests were opened within the past six months?  
 **None**
+
 1. When was the last  pull request  merged?  
 **None**
 
@@ -131,16 +135,60 @@ violate it?
 **No**
 
 1. Do the maintainers respond helpfully to questions in issues? Are responses
-   generally constructive? Read the issue conversations.
+   generally constructive? Read the issue conversations.  
+**They ask people to contribute form their [
+Gerrit repository](https://gerrit.libreoffice.org/q/status:open)**
 
 1. Are people friendly in the issues, discussion forum, and chat?  
+**Same as above.**
 
 1. Do maintainers thank people for their contributions?  
+**Yes, even though they do not accept pull requests from github, they usually
+say thank you to those attempted.**
 
+### Build Log
+1. I cloned the repository, and followed the instruction for installing 
+   dependencies.
+   ```bash
+   cd && sudo apt-get install git ccache junit4 gstreamer1.0-libav libkrb5-dev 
+   nasm graphviz libpython3-dev
+   ```
+
+1. Ran the the bootstrap script:
+   ```bash
+   ./autogen.sh
+   ```
+   However, it kept saying about missing packages. I had to install:   
+   - `libfontconfig1-dev`
+   - `gperf`
+   - `JDK`
+   -  `doxygen` from source, because the precompiled one was not working well on
+       my machine, and what I needed: 
+       - `flex`
+       - `bison` 
+   - `libxslt1-dev`
+   - `xsltproc`
+   - `libxml2-utils`
+   - `libxext-dev`
+   - `gtk-3.0-dev`
+   - `libxrandr-dev`
+   - `libgstreamer1.0-dev`
+   - `libgstreamer-plugins-base1.0-dev`
+   - `ant`
+
+1. Finally, I can run  ```make```  
+And it took over four hours to be built...
+
+1. After all, I ran
+    ```
+    ./instdir/program/soffice --writer
+    ```
+    Fortunately, the word like application showed up on my screen.  
 
 ### Summary
+
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?  
-**I think it is possible to contribute to this project, but as a beginner,
-contributing to projects that use github as their main hub.**
-
+**I think it is possible to contribute to this project, but as a beginner, 
+contributing to projects that use github as their main hub. Besides that, 
+fewer dependencies would be better. **
