@@ -144,5 +144,6 @@ course of a semester?
 ##### Maite’s summary
 **This project would be a good project to contribute to for someone who knows how to
 code in JavaScript. Issues are quickly dealt with which means new contributors would
-be able to contribute to the project right away instead of waiting for an extended period of time for a response from maintainers. Overall, I think this project would be a good project to contribute to throughout the semester.**
+be able to contribute to the project right away instead of waiting for an extended period of time for a response from maintainers. Overall, I think this project would be a good project to contribute to throughout the semester.  
+The installations process for blockly was fairly quick, the only thing that is required is to download the source code which is avalable on GitHub. After the dowload, the user needs to open the files as check to see if the proper actions are occuring when opened on the web. Unfortunately, the web version of this version is recommended as the Android and iOS versions have been "deprecated".**
 
