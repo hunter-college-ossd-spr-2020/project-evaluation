@@ -143,6 +143,7 @@ person adding commits.**
 ### Summary
 Do you think  this is a project to which it would be possible to contribute in the
 course of a semester?
+
 **Probably not, there are some issues that are still left open, however one would need 
 to go over the facebook libraries first and understand all of the interdependencies which would take 
 time which may be better spent working on a different project.**
