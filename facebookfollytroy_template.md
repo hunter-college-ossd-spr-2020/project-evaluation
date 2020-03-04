@@ -137,7 +137,7 @@ Read the issue conversations.  <br>
 but they dont seem to be unfriendly either.**
 
 1. Do maintainers thank people for their contributions? <br>
-**There is a github bot that responds to pull requests and does not usually thnak the 
+**There is a github bot that responds to pull requests and does not usually thank the 
 person adding commits.**
 
 ### Summary
