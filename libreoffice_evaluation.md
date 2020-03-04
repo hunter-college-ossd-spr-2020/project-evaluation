@@ -110,7 +110,7 @@ this page](https://wiki.documentfoundation.org/Design).**
  Look at the closed pull requests to see how long they stayed open.
  Take the five most recently closed ones and look at when each was first reported.
  Compute the number of days that each was open and take the average.  
-**(49 + 43 + 0 + 0 + 0)/2 = 46, so 46 days** 
+**(49 + 43 + 0 + 0 + 0)/5 = 18.4, so 18 days** 
 
 1. Is there active discussion on the pull requests?  
 **No, because there is no issues on github.**
