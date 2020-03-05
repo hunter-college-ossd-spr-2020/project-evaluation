@@ -147,3 +147,10 @@ course of a semester?
 **Probably not, there are some issues that are still left open, however one would need 
 to go over the facebook libraries first and understand all of the interdependencies which would take 
 time which may be better spent working on a different project.**
+
+**Installation: 
+
+On Mac OSX whcich is the operating system I use at home, I had the option of 
+updating homebrew and using it to install facebook folly. Installing it it was 
+a very simple proscess thanks to it as I only ahd to run one command 
+"brew install folly".
