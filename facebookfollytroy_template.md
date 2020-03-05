@@ -151,5 +151,5 @@ time which may be better spent working on a different project.**
 ### Installation:
 **On Mac OSX whcich is the operating system I use at home, I had the option of 
 updating homebrew and using it to install facebook folly. Installing it it was 
-a very simple proscess thanks to it as I only ahd to run one command 
+a very simple proscess thanks to it as I only had to run one command 
 "brew install folly".**
