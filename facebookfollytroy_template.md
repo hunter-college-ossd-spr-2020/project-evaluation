@@ -148,7 +148,7 @@ course of a semester?
 to go over the facebook libraries first and understand all of the interdependencies which would take 
 time which may be better spent working on a different project.**
 
-**Installation:**
+### Installation:
 **On Mac OSX whcich is the operating system I use at home, I had the option of 
 updating homebrew and using it to install facebook folly. Installing it it was 
 a very simple proscess thanks to it as I only ahd to run one command 
