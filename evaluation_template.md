@@ -43,7 +43,6 @@ database,  graphics, web development, or other libraries? <br>
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample.  <br>
 
-
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/).  <br>
 
@@ -61,7 +60,6 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/).  <br>
 
 
 ### Activity Level
-
 
 
 1. How many commits have been made in the past week? <br>
@@ -135,12 +133,10 @@ Use the same method as you did for the issues.   <br>
 ### Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
-Look through it and see if it is clear and thorough.
-<br>
+Look through it and see if it is clear and thorough. <br>
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
-violte it?
-<br>
+violte it? <br>
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive?
