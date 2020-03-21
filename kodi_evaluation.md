@@ -4,7 +4,7 @@ Kodi
 ---
 
 **Evaluating Person or Team**:
-Christina Torre
+Christina Torres
 
 ---
 
